@@ -65,5 +65,20 @@
     "createdAt": "2026-05-28T10:44:26.162Z",
     "expiredAt": "2026-06-27T10:48:08.696Z",
     "ExpLimit": "27 Juni 2026"
+  },
+  {
+    "id": 1779970068401,
+    "username": "idillsukakerja@gmail.com",
+    "email": "idillsukakerja@gmail.com",
+    "name": "Wkwk Wkwk",
+    "picture": "https://lh3.googleusercontent.com/a/ACg8ocLvsDMJ5wQJQGdX6BeSIFQYhyzdwviqiJ7TFBu33Nok0Er6MQ=s96-c",
+    "googleId": "112133810728019755617",
+    "password": null,
+    "apikey": "wv4rgc6u",
+    "limit": 10,
+    "premium": false,
+    "createdAt": "2026-05-28T12:07:48.401Z",
+    "expiredAt": "2026-05-31T12:07:48.401Z",
+    "ExpLimit": "31 Mei 2026"
   }
 ]
