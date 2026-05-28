@@ -95,5 +95,18 @@
     "createdAt": "2026-05-28T14:09:22.840Z",
     "expiredAt": "2026-06-27T14:11:19.875Z",
     "ExpLimit": "27 Juni 2026"
+  },
+  {
+    "id": 1779978621710,
+    "username": "nanad",
+    "name": "nanad",
+    "email": "mikonew37@gmail.com",
+    "password": "$2b$10$b5H9SW/CZiqiV7aa6tFmpeCjz8lV0SICQ37PAJ/u/C1lF54z8pvBu",
+    "apikey": "6wklv6ac",
+    "limit": 10,
+    "premium": false,
+    "createdAt": "2026-05-28T14:30:21.710Z",
+    "expiredAt": "2026-05-31T14:30:21.710Z",
+    "ExpLimit": "31 Mei 2026"
   }
 ]
