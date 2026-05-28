@@ -103,10 +103,10 @@
     "email": "mikonew37@gmail.com",
     "password": "$2b$10$b5H9SW/CZiqiV7aa6tFmpeCjz8lV0SICQ37PAJ/u/C1lF54z8pvBu",
     "apikey": "6wklv6ac",
-    "limit": 1000,
+    "limit": 2000,
     "premium": true,
     "createdAt": "2026-05-28T14:30:21.710Z",
-    "expiredAt": "2026-06-28T07:30:00.000Z",
+    "expiredAt": "2026-06-28T00:30:00.000Z",
     "ExpLimit": "28 Juni 2026"
   }
 ]
