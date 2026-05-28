@@ -60,10 +60,10 @@
     "email": "nafarahmayani15@gmail.com",
     "password": "$2b$10$dnAAyutvAHNxZkhOG/Ivreo3du82LrtPyIaTmjtBSs.t.bbVmUer.",
     "apikey": "d5y2swby",
-    "limit": 10,
-    "premium": false,
+    "limit": 5010,
+    "premium": true,
     "createdAt": "2026-05-28T10:44:26.162Z",
-    "expiredAt": "2026-05-31T10:44:26.161Z",
-    "ExpLimit": "31 Mei 2026"
+    "expiredAt": "2026-06-27T10:48:08.696Z",
+    "ExpLimit": "27 Juni 2026"
   }
 ]
