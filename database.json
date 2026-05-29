@@ -123,5 +123,18 @@
     "createdAt": "2026-05-29T02:34:37.163Z",
     "expiredAt": "2026-06-01T02:34:37.162Z",
     "ExpLimit": "1 Juni 2026"
+  },
+  {
+    "id": 1780049401648,
+    "username": "bayu",
+    "name": "bayu",
+    "email": "bayumainroblox@gmail.com",
+    "password": "$2b$10$9QPFPXzxw2dyIEnvYYxXI.XA..xN/VBAHUHQD50MQUiKdlco7Qk0.",
+    "apikey": "qqxaboeq",
+    "limit": 10,
+    "premium": false,
+    "createdAt": "2026-05-29T10:10:01.648Z",
+    "expiredAt": "2026-06-01T10:10:01.647Z",
+    "ExpLimit": "1 Juni 2026"
   }
 ]
