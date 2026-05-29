@@ -108,5 +108,20 @@
     "createdAt": "2026-05-28T14:30:21.710Z",
     "expiredAt": "2026-06-28T00:30:00.000Z",
     "ExpLimit": "28 Juni 2026"
+  },
+  {
+    "id": 1780022077163,
+    "username": "ikhwanulmgl@gmail.com",
+    "email": "ikhwanulmgl@gmail.com",
+    "name": "Ucii Permataa",
+    "picture": "https://lh3.googleusercontent.com/a/ACg8ocITKVV4Xy1jLjRXUew7X7pIqoHGxZDWHv-rP830zLsH3i-tSgcy=s96-c",
+    "googleId": "107202194005640770544",
+    "password": null,
+    "apikey": "jvuff71q",
+    "limit": 10,
+    "premium": false,
+    "createdAt": "2026-05-29T02:34:37.163Z",
+    "expiredAt": "2026-06-01T02:34:37.162Z",
+    "ExpLimit": "1 Juni 2026"
   }
 ]
