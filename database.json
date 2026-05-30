@@ -144,10 +144,10 @@
     "email": "raihan.maulana.addina@gmail.com",
     "password": "$2b$10$5oto/aHFDK.5uZQiyULg9uQI3TsNPTfYCTY16oob.dlLTSS5gWY9a",
     "apikey": "v1zskts7",
-    "limit": 9,
-    "premium": false,
+    "limit": 100000,
+    "premium": true,
     "createdAt": "2026-05-30T15:54:17.231Z",
-    "expiredAt": "2026-06-02T15:54:17.213Z",
+    "expiredAt": "2026-06-02T08:54:00.000Z",
     "ExpLimit": "2 Juni 2026"
   }
 ]
