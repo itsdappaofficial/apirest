@@ -164,5 +164,18 @@
     "createdAt": "2026-05-30T22:30:14.843Z",
     "expiredAt": "2026-06-29T22:36:43.854Z",
     "ExpLimit": "29 Juni 2026"
+  },
+  {
+    "id": 1780183773525,
+    "username": "jeex",
+    "name": "jeex",
+    "email": "ajeeprem12@gmail.com",
+    "password": "$2b$10$0FpDWTGZhpmyE6BBZvHC9./AA1SfmLl6Nc7J/PmktO2Hyxo7buXvm",
+    "apikey": "kcxirgj4",
+    "limit": 10,
+    "premium": false,
+    "createdAt": "2026-05-30T23:29:33.525Z",
+    "expiredAt": "2026-06-02T23:29:33.525Z",
+    "ExpLimit": "2 Juni 2026"
   }
 ]
