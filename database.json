@@ -149,5 +149,20 @@
     "createdAt": "2026-05-30T15:54:17.231Z",
     "expiredAt": "2026-06-02T01:54:00.000Z",
     "ExpLimit": "2 Juni 2026"
+  },
+  {
+    "id": 1780180214843,
+    "username": "gatewayother1@gmail.com",
+    "email": "gatewayother1@gmail.com",
+    "name": "Gateway Other",
+    "picture": "https://lh3.googleusercontent.com/a/ACg8ocIPV-rN2sJaRhhO_6ES0rFVVSYp7tvjrHYNEiBy6gG3j_SlWg=s96-c",
+    "googleId": "114789029363350058796",
+    "password": null,
+    "apikey": "hrcx1qh6",
+    "limit": 10,
+    "premium": false,
+    "createdAt": "2026-05-30T22:30:14.843Z",
+    "expiredAt": "2026-06-02T22:30:14.829Z",
+    "ExpLimit": "2 Juni 2026"
   }
 ]
