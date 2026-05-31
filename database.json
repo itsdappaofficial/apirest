@@ -218,5 +218,20 @@
     "createdAt": "2026-05-31T11:38:56.304Z",
     "expiredAt": "2026-06-03T11:38:56.304Z",
     "ExpLimit": "3 Juni 2026"
+  },
+  {
+    "id": 1780238581305,
+    "username": "zynnngold@gmail.com",
+    "email": "zynnngold@gmail.com",
+    "name": "zynnn gold",
+    "picture": "https://lh3.googleusercontent.com/a/ACg8ocKZeHfSGrRZ-5B4HJjF2kMvWnS7avW9CAmyWTWrvP9yTlRl-r4=s96-c",
+    "googleId": "103192459946739285156",
+    "password": null,
+    "apikey": "8fiwa4a7",
+    "limit": 10,
+    "premium": false,
+    "createdAt": "2026-05-31T14:43:01.305Z",
+    "expiredAt": "2026-06-03T14:43:01.287Z",
+    "ExpLimit": "3 Juni 2026"
   }
 ]
