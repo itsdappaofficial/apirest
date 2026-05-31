@@ -248,5 +248,20 @@
     "createdAt": "2026-05-31T14:47:39.997Z",
     "expiredAt": "2026-06-03T14:47:39.996Z",
     "ExpLimit": "3 Juni 2026"
+  },
+  {
+    "id": 1780239507630,
+    "username": "armanndokoh@gmail.com",
+    "email": "armanndokoh@gmail.com",
+    "name": "AmPrem BySanz",
+    "picture": "https://lh3.googleusercontent.com/a/ACg8ocKh5njeOOHdZsrEF9TagAgSI7Vvif8YSZUwqe3_CU2PF_anm3w=s96-c",
+    "googleId": "101482304613136764149",
+    "password": null,
+    "apikey": "p7e3im9t",
+    "limit": 10,
+    "premium": false,
+    "createdAt": "2026-05-31T14:58:27.630Z",
+    "expiredAt": "2026-06-03T14:58:27.598Z",
+    "ExpLimit": "3 Juni 2026"
   }
 ]
