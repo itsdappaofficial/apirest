@@ -192,5 +192,18 @@
     "createdAt": "2026-05-31T08:31:19.313Z",
     "expiredAt": "2026-06-30T01:34:00.000Z",
     "ExpLimit": "30 Juni 2026"
+  },
+  {
+    "id": 1780223154411,
+    "username": "yeshacy",
+    "name": "yeshacy",
+    "email": "sabtu2500@gmail.com",
+    "password": "$2b$10$YZ2erdZ92fdEBDxxQdN/Iemc23nXfLMA/.IbEKeesW7.EERsNwKJK",
+    "apikey": "hvkfdtsl",
+    "limit": 10,
+    "premium": false,
+    "createdAt": "2026-05-31T10:25:54.411Z",
+    "expiredAt": "2026-06-03T10:25:54.410Z",
+    "ExpLimit": "3 Juni 2026"
   }
 ]
