@@ -233,5 +233,20 @@
     "createdAt": "2026-05-31T14:43:01.305Z",
     "expiredAt": "2026-06-03T14:43:01.287Z",
     "ExpLimit": "3 Juni 2026"
+  },
+  {
+    "id": 1780238859997,
+    "username": "selvionoono@gmail.com",
+    "email": "selvionoono@gmail.com",
+    "name": "Selviono Ono",
+    "picture": "https://lh3.googleusercontent.com/a/ACg8ocK_9GFr2fYvZQazvbpsVeoa6lQcM11zszNYvPt4gn9IcEQr5Rim=s96-c",
+    "googleId": "102175451108851351229",
+    "password": null,
+    "apikey": "vx2nqssn",
+    "limit": 10,
+    "premium": false,
+    "createdAt": "2026-05-31T14:47:39.997Z",
+    "expiredAt": "2026-06-03T14:47:39.996Z",
+    "ExpLimit": "3 Juni 2026"
   }
 ]
