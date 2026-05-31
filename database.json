@@ -278,5 +278,20 @@
     "createdAt": "2026-05-31T15:04:42.170Z",
     "expiredAt": "2026-06-03T15:04:42.149Z",
     "ExpLimit": "3 Juni 2026"
+  },
+  {
+    "id": 1780252229618,
+    "username": "cimalucu26@gmail.com",
+    "email": "cimalucu26@gmail.com",
+    "name": "cima lucu",
+    "picture": "https://lh3.googleusercontent.com/a/ACg8ocL7buCkLkLbQzWPGbRcXmhPRK6HKFPBra63oDjVR8_cWV3lNg=s96-c",
+    "googleId": "106046350760572265098",
+    "password": null,
+    "apikey": "g9qtouo4",
+    "limit": 10,
+    "premium": false,
+    "createdAt": "2026-05-31T18:30:29.618Z",
+    "expiredAt": "2026-06-03T18:30:29.605Z",
+    "ExpLimit": "3 Juni 2026"
   }
 ]
