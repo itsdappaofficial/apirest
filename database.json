@@ -205,5 +205,18 @@
     "createdAt": "2026-05-31T10:25:54.411Z",
     "expiredAt": "2026-06-03T10:25:54.410Z",
     "ExpLimit": "3 Juni 2026"
+  },
+  {
+    "id": 1780227536304,
+    "username": "manapi1",
+    "name": "manapi1",
+    "email": "weppmidiafire@gmail.com",
+    "password": "$2b$10$UR9tHU0kBo9hulVsfPzUXegoTFKoq0jrU7PT1f6qZIVAZoz0bMU92",
+    "apikey": "ad8aanu4",
+    "limit": 10,
+    "premium": false,
+    "createdAt": "2026-05-31T11:38:56.304Z",
+    "expiredAt": "2026-06-03T11:38:56.304Z",
+    "ExpLimit": "3 Juni 2026"
   }
 ]
