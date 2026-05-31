@@ -263,5 +263,20 @@
     "createdAt": "2026-05-31T14:58:27.630Z",
     "expiredAt": "2026-06-03T14:58:27.598Z",
     "ExpLimit": "3 Juni 2026"
+  },
+  {
+    "id": 1780239882170,
+    "username": "rasyidkisaran2@gmail.com",
+    "email": "rasyidkisaran2@gmail.com",
+    "name": "Rasyid Kisaran",
+    "picture": "https://lh3.googleusercontent.com/a/ACg8ocJRAE0xMezJrLbEQbBuKFht4R6pIDu_i4YRZemNSh4-Pd3WEg=s96-c",
+    "googleId": "107214954984297282706",
+    "password": null,
+    "apikey": "3yvb8h5r",
+    "limit": 10,
+    "premium": false,
+    "createdAt": "2026-05-31T15:04:42.170Z",
+    "expiredAt": "2026-06-03T15:04:42.149Z",
+    "ExpLimit": "3 Juni 2026"
   }
 ]
