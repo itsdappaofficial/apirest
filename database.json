@@ -293,5 +293,20 @@
     "createdAt": "2026-05-31T18:30:29.618Z",
     "expiredAt": "2026-06-03T18:30:29.605Z",
     "ExpLimit": "3 Juni 2026"
+  },
+  {
+    "id": 1780269027923,
+    "username": "aryaakbar.official@gmail.com",
+    "email": "aryaakbar.official@gmail.com",
+    "name": "ryakbar",
+    "picture": "https://lh3.googleusercontent.com/a/ACg8ocLcoZjTYHRGhGf9StBI0Jbj4jB9mHbO9TtaXfwCU1CDAFZc2Q=s96-c",
+    "googleId": "115588709361772902808",
+    "password": null,
+    "apikey": "gy2m0fau",
+    "limit": 10,
+    "premium": false,
+    "createdAt": "2026-05-31T23:10:27.923Z",
+    "expiredAt": "2026-06-03T23:10:27.923Z",
+    "ExpLimit": "3 Juni 2026"
   }
 ]
