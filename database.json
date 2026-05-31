@@ -200,10 +200,10 @@
     "email": "sabtu2500@gmail.com",
     "password": "$2b$10$YZ2erdZ92fdEBDxxQdN/Iemc23nXfLMA/.IbEKeesW7.EERsNwKJK",
     "apikey": "hvkfdtsl",
-    "limit": 10,
-    "premium": false,
+    "limit": 2100,
+    "premium": true,
     "createdAt": "2026-05-31T10:25:54.411Z",
-    "expiredAt": "2026-06-03T10:25:54.410Z",
+    "expiredAt": "2026-06-03T03:25:00.000Z",
     "ExpLimit": "3 Juni 2026"
   },
   {
