@@ -308,5 +308,20 @@
     "createdAt": "2026-05-31T23:10:27.923Z",
     "expiredAt": "2026-06-03T23:10:27.923Z",
     "ExpLimit": "3 Juni 2026"
+  },
+  {
+    "id": 1780279640606,
+    "username": "mutiazhari11@gmail.com",
+    "email": "mutiazhari11@gmail.com",
+    "name": "Mutia Zhari",
+    "picture": "https://lh3.googleusercontent.com/a/ACg8ocIS1sybeMr7XKaYTbRM7d3PNd68CujESgqEfy_AeNv0shhOVnLS=s96-c",
+    "googleId": "103032463731721360688",
+    "password": null,
+    "apikey": "3zy0v9rt",
+    "limit": 10,
+    "premium": false,
+    "createdAt": "2026-06-01T02:07:20.606Z",
+    "expiredAt": "2026-06-04T02:07:20.606Z",
+    "ExpLimit": "4 Juni 2026"
   }
 ]
