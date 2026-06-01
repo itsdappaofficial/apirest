@@ -331,10 +331,10 @@
     "email": "tianprem@gmail.com",
     "password": "$2b$10$r/902FG4GsIoi4Pe5bNwIelC5WyQ1jnsDcgBANj4JcxvY2xgJq0QK",
     "apikey": "6s6d4vl4",
-    "limit": 10,
-    "premium": false,
+    "limit": 10000,
+    "premium": true,
     "createdAt": "2026-06-01T08:49:07.613Z",
-    "expiredAt": "2026-06-04T08:49:07.613Z",
+    "expiredAt": "2026-06-04T01:49:00.000Z",
     "ExpLimit": "4 Juni 2026"
   },
   {
