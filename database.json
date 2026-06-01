@@ -366,5 +366,18 @@
     "createdAt": "2026-06-01T12:55:35.781Z",
     "expiredAt": "2026-06-04T12:55:35.780Z",
     "ExpLimit": "4 Juni 2026"
+  },
+  {
+    "id": 1780329881636,
+    "username": "iky",
+    "name": "iky",
+    "email": "ardianriski205@gmail.com",
+    "password": "$2b$10$YB.6NfV5qXRmpgG9eR.PdeUmZkuJieCIZ45r4z2WYuj3y8hh4iNDm",
+    "apikey": "jy3ou95l",
+    "limit": 10,
+    "premium": false,
+    "createdAt": "2026-06-01T16:04:41.636Z",
+    "expiredAt": "2026-06-04T16:04:41.636Z",
+    "ExpLimit": "4 Juni 2026"
   }
 ]
