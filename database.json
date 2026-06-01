@@ -336,5 +336,20 @@
     "createdAt": "2026-06-01T08:49:07.613Z",
     "expiredAt": "2026-06-04T08:49:07.613Z",
     "ExpLimit": "4 Juni 2026"
+  },
+  {
+    "id": 1780305804127,
+    "username": "laniaja140209@gmail.com",
+    "email": "laniaja140209@gmail.com",
+    "name": "Alni Gea",
+    "picture": "https://lh3.googleusercontent.com/a/ACg8ocJwmPemaZi1m3I04d4dyT1Y9wWqqBl234xYPJcXVh9DWE2kv2M=s96-c",
+    "googleId": "111069948331070844152",
+    "password": null,
+    "apikey": "t41536lz",
+    "limit": 10,
+    "premium": false,
+    "createdAt": "2026-06-01T09:23:24.127Z",
+    "expiredAt": "2026-06-04T09:23:24.127Z",
+    "ExpLimit": "4 Juni 2026"
   }
 ]
