@@ -351,5 +351,20 @@
     "createdAt": "2026-06-01T09:23:24.127Z",
     "expiredAt": "2026-06-04T09:23:24.127Z",
     "ExpLimit": "4 Juni 2026"
+  },
+  {
+    "id": 1780318535781,
+    "username": "dedewop85@gmail.com",
+    "email": "dedewop85@gmail.com",
+    "name": "Dede Wop",
+    "picture": "https://lh3.googleusercontent.com/a/ACg8ocKE_9PI3Z7T2y_UYIUpU7r2jFIPMZHi0qDALD4BCfOM0DKWWA=s96-c",
+    "googleId": "105084191943281621591",
+    "password": null,
+    "apikey": "1n97lupx",
+    "limit": 10,
+    "premium": false,
+    "createdAt": "2026-06-01T12:55:35.781Z",
+    "expiredAt": "2026-06-04T12:55:35.780Z",
+    "ExpLimit": "4 Juni 2026"
   }
 ]
