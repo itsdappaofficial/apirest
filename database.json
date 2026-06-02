@@ -379,5 +379,20 @@
     "createdAt": "2026-06-01T16:04:41.636Z",
     "expiredAt": "2026-06-04T16:04:41.636Z",
     "ExpLimit": "4 Juni 2026"
+  },
+  {
+    "id": 1780399006877,
+    "username": "peanut.02548@gmail.com",
+    "email": "peanut.02548@gmail.com",
+    "name": "Peanut Hot",
+    "picture": "https://lh3.googleusercontent.com/a/ACg8ocLMYxHVRyKFeCk25b5o477FEPpu3nt1W7vjQHY9JU-x23tXKw=s96-c",
+    "googleId": "100485004446087495928",
+    "password": null,
+    "apikey": "s07kwfph",
+    "limit": 10,
+    "premium": false,
+    "createdAt": "2026-06-02T11:16:46.877Z",
+    "expiredAt": "2026-06-05T11:16:46.864Z",
+    "ExpLimit": "5 Juni 2026"
   }
 ]
