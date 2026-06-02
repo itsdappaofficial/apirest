@@ -394,5 +394,20 @@
     "createdAt": "2026-06-02T11:16:46.877Z",
     "expiredAt": "2026-06-05T11:16:46.864Z",
     "ExpLimit": "5 Juni 2026"
+  },
+  {
+    "id": 1780410936937,
+    "username": "joongarchen835@gmail.com",
+    "email": "joongarchen835@gmail.com",
+    "name": "joong archen",
+    "picture": "https://lh3.googleusercontent.com/a/ACg8ocLo3-7X0mY-2VqqJlZt7vQogdrZKG_FrpHAkqtzzWR8cK08lw=s96-c",
+    "googleId": "106976770533029914935",
+    "password": null,
+    "apikey": "s9g2jqge",
+    "limit": 10,
+    "premium": false,
+    "createdAt": "2026-06-02T14:35:36.937Z",
+    "expiredAt": "2026-06-05T14:35:36.921Z",
+    "ExpLimit": "5 Juni 2026"
   }
 ]
