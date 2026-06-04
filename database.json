@@ -409,5 +409,18 @@
     "createdAt": "2026-06-02T14:35:36.937Z",
     "expiredAt": "2026-06-05T14:35:36.921Z",
     "ExpLimit": "5 Juni 2026"
+  },
+  {
+    "id": 1780534828891,
+    "username": "raden",
+    "name": "raden",
+    "email": "akudo731@gmail.com",
+    "password": "$2b$10$Zs37I8ZSnxTBQSFOsMkxt.mGEeiOuCcp0FNfmo.sTerTrLHzLDUBm",
+    "apikey": "h1hajhia",
+    "limit": 10,
+    "premium": false,
+    "createdAt": "2026-06-04T01:00:28.891Z",
+    "expiredAt": "2026-06-07T01:00:28.751Z",
+    "ExpLimit": "7 Juni 2026"
   }
 ]
