@@ -422,5 +422,18 @@
     "createdAt": "2026-06-04T01:00:28.891Z",
     "expiredAt": "2026-06-07T01:00:28.751Z",
     "ExpLimit": "7 Juni 2026"
+  },
+  {
+    "id": 1780546226790,
+    "username": "ocitnesia",
+    "name": "ocitnesia",
+    "email": "ocitnesia@gmail.com",
+    "password": "$2b$10$QnJmGHGPqwZ4a1KiNQZlIuERAahWIC3ubengGL.r59S1YnlWvJ8ea",
+    "apikey": "chvcuqhw",
+    "limit": 10,
+    "premium": false,
+    "createdAt": "2026-06-04T04:10:26.790Z",
+    "expiredAt": "2026-06-07T04:10:26.787Z",
+    "ExpLimit": "7 Juni 2026"
   }
 ]
