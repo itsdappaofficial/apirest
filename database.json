@@ -450,5 +450,18 @@
     "createdAt": "2026-06-05T09:15:50.771Z",
     "expiredAt": "2026-06-08T09:15:50.733Z",
     "ExpLimit": "8 Juni 2026"
+  },
+  {
+    "id": 1780728596884,
+    "username": "keloy",
+    "name": "keloy",
+    "email": "pillysukaepepy@gmail.com",
+    "password": "$2b$10$4rZk2E1tC0xyXLJ0zN6T.ek/xjVQtBc/7l7dLG0QGD4OQJfgHR3ji",
+    "apikey": "o0rc1lk0",
+    "limit": 10,
+    "premium": false,
+    "createdAt": "2026-06-06T06:49:56.885Z",
+    "expiredAt": "2026-06-09T06:49:56.875Z",
+    "ExpLimit": "9 Juni 2026"
   }
 ]
