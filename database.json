@@ -478,5 +478,18 @@
     "createdAt": "2026-06-07T05:35:17.438Z",
     "expiredAt": "2026-06-10T05:35:17.411Z",
     "ExpLimit": "10 Juni 2026"
+  },
+  {
+    "id": 1780812128314,
+    "username": "aira5527",
+    "name": "aira5527",
+    "email": "nadhirahhumaira55@gmail.com",
+    "password": "$2b$10$YJJ8JRAV9pFdqYNTQba6HeyaCKxIYsHg3fu9lRLDZR3xNfJhP7Ta6",
+    "apikey": "l6a067fc",
+    "limit": 10,
+    "premium": false,
+    "createdAt": "2026-06-07T06:02:08.314Z",
+    "expiredAt": "2026-06-10T06:02:08.313Z",
+    "ExpLimit": "10 Juni 2026"
   }
 ]
