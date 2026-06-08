@@ -491,5 +491,18 @@
     "createdAt": "2026-06-07T06:02:08.314Z",
     "expiredAt": "2026-08-06T06:16:44.377Z",
     "ExpLimit": "6 Agustus 2026"
+  },
+  {
+    "id": 1780902276848,
+    "username": "ella",
+    "name": "ella",
+    "email": "mtia02136@gmail.com",
+    "password": "$2b$10$coegCW2qE5lZ9K.nr7pZberJwnrZQfRwEzRWbQCwDYrTk2p2syM7W",
+    "apikey": "d30h5u61",
+    "limit": 10,
+    "premium": false,
+    "createdAt": "2026-06-08T07:04:36.848Z",
+    "expiredAt": "2026-06-11T07:04:36.847Z",
+    "ExpLimit": "11 Juni 2026"
   }
 ]
