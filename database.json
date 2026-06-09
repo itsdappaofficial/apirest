@@ -515,10 +515,10 @@
     "googleId": "100481895666431557772",
     "password": null,
     "apikey": "rf10igct",
-    "limit": 10,
-    "premium": false,
+    "limit": 5010,
+    "premium": true,
     "createdAt": "2026-06-09T03:13:39.001Z",
-    "expiredAt": "2026-06-12T03:13:38.991Z",
-    "ExpLimit": "12 Juni 2026"
+    "expiredAt": "2026-07-09T03:15:10.605Z",
+    "ExpLimit": "9 Juli 2026"
   }
 ]
