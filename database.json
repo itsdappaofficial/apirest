@@ -505,5 +505,20 @@
     "createdAt": "2026-06-08T07:04:36.848Z",
     "expiredAt": "2026-06-11T07:04:36.847Z",
     "ExpLimit": "11 Juni 2026"
+  },
+  {
+    "id": 1780974818993,
+    "username": "ciwaamart@gmail.com",
+    "email": "ciwaamart@gmail.com",
+    "name": "ciwaa mart",
+    "picture": "https://lh3.googleusercontent.com/a/ACg8ocIQuRV3svwk5K20EBaCGDvshSyDqj2GCzOn9Lr4x0AllH-rSg=s96-c",
+    "googleId": "100481895666431557772",
+    "password": null,
+    "apikey": "rf10igct",
+    "limit": 10,
+    "premium": false,
+    "createdAt": "2026-06-09T03:13:39.001Z",
+    "expiredAt": "2026-06-12T03:13:38.991Z",
+    "ExpLimit": "12 Juni 2026"
   }
 ]
