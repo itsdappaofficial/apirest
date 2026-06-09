@@ -370,7 +370,7 @@
   {
     "id": 1780329881636,
     "username": "iky",
-    "name": "iky",
+    "name": "Ardian Rizky Ramadhan",
     "email": "ardianriski205@gmail.com",
     "password": "$2b$10$EF2FHbGQb86n0TJhg0X9yOymPII6INpiYtfGhFpTZvC9jBnaonHPq",
     "apikey": "jy3ou95l",
@@ -378,7 +378,8 @@
     "premium": false,
     "createdAt": "2026-06-01T16:04:41.636Z",
     "expiredAt": "2026-06-04T16:04:41.636Z",
-    "ExpLimit": "4 Juni 2026"
+    "ExpLimit": "4 Juni 2026",
+    "picture": "https://lh3.googleusercontent.com/a/ACg8ocIkLo_sKvVONabkTs1WnBOst42iBFeAOLsWcqGRgj3C8-ZDKMI=s96-c"
   },
   {
     "id": 1780399006877,
