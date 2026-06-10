@@ -548,5 +548,18 @@
     "createdAt": "2026-06-10T09:31:15.404Z",
     "expiredAt": "2026-06-13T09:31:15.401Z",
     "ExpLimit": "13 Juni 2026"
+  },
+  {
+    "id": 1781104804020,
+    "username": "rafpane",
+    "name": "rafpane",
+    "email": "rastokrr@gmail.com",
+    "password": "$2b$10$IY.t/L1WC6naTdoIElaW9OBl97qNn.1BEUTW/gmG/Ub4CqtBmt.0W",
+    "apikey": "2xlo7q36",
+    "limit": 10,
+    "premium": false,
+    "createdAt": "2026-06-10T15:20:04.020Z",
+    "expiredAt": "2026-06-13T15:20:04.004Z",
+    "ExpLimit": "13 Juni 2026"
   }
 ]
