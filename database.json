@@ -535,5 +535,18 @@
     "createdAt": "2026-06-09T06:25:40.928Z",
     "expiredAt": "2026-06-12T06:25:40.928Z",
     "ExpLimit": "12 Juni 2026"
+  },
+  {
+    "id": 1781083875404,
+    "username": "Yusuf Sore",
+    "name": "Yusuf Sore",
+    "email": "yusufsore326@gmail.com",
+    "password": "$2b$10$y0AYQ.JN2J80Lu/PI.d1fOVzve1L6qn70Y9aKOSQJp4qbK8Sa5qwm",
+    "apikey": "li7651gr",
+    "limit": 10,
+    "premium": false,
+    "createdAt": "2026-06-10T09:31:15.404Z",
+    "expiredAt": "2026-06-13T09:31:15.401Z",
+    "ExpLimit": "13 Juni 2026"
   }
 ]
