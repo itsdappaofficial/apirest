@@ -574,5 +574,18 @@
     "createdAt": "2026-06-11T09:06:16.639Z",
     "expiredAt": "2026-07-10T19:06:00.000Z",
     "ExpLimit": "11 Juli 2026"
+  },
+  {
+    "id": 1781175871017,
+    "username": "dewixc",
+    "name": "dewixc",
+    "email": "vibitoday45@gmail.com",
+    "password": "$2b$10$FeZtpgHSig/DspAxhSZhPebtJ86MUqSpMWAnX01iftTxoqaRYLaeK",
+    "apikey": "7vfzphxg",
+    "limit": 10,
+    "premium": false,
+    "createdAt": "2026-06-11T11:04:31.017Z",
+    "expiredAt": "2026-06-14T11:04:31.004Z",
+    "ExpLimit": "14 Juni 2026"
   }
 ]
