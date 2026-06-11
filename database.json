@@ -569,10 +569,10 @@
     "email": "ainulbasyiroh01@gmail.com",
     "password": "$2b$10$RknA/4fYwfqcbxIUQy2WzO/s7VbFTOlT1t9Lw16XIYJQoYDo2k9Wi",
     "apikey": "sx1pc8bz",
-    "limit": 10,
+    "limit": 2500,
     "premium": false,
     "createdAt": "2026-06-11T09:06:16.639Z",
-    "expiredAt": "2026-06-14T09:06:16.621Z",
-    "ExpLimit": "14 Juni 2026"
+    "expiredAt": "2026-07-11T02:06:00.000Z",
+    "ExpLimit": "11 Juli 2026"
   }
 ]
