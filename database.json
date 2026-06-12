@@ -646,5 +646,18 @@
     "createdAt": "2026-06-12T07:59:40.787Z",
     "expiredAt": "2026-06-15T07:59:40.787Z",
     "ExpLimit": "15 Juni 2026"
+  },
+  {
+    "id": 1781264841672,
+    "username": "mirnaa",
+    "name": "mirnaa",
+    "email": "cintakuuyahh@gmail.com",
+    "password": "$2b$10$oXqUFkotv1UB8O5rdW80teKF3URd/wkBhvd3GirnlYcCvwJh5j1Le",
+    "apikey": "1bgwixxj",
+    "limit": 10,
+    "premium": false,
+    "createdAt": "2026-06-12T11:47:21.672Z",
+    "expiredAt": "2026-06-15T11:47:21.672Z",
+    "ExpLimit": "15 Juni 2026"
   }
 ]
