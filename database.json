@@ -659,5 +659,18 @@
     "createdAt": "2026-06-12T11:47:21.672Z",
     "expiredAt": "2026-07-12T11:48:31.727Z",
     "ExpLimit": "12 Juli 2026"
+  },
+  {
+    "id": 1781304977740,
+    "username": "stecy",
+    "name": "stecy",
+    "email": "sorayaa0603@gmail.com",
+    "password": "$2b$10$bqD7.SsywgNtahMJSPpDSeC6i6x2jsbV.49qYmSBsq1iaEdI51DuG",
+    "apikey": "pqh83zgu",
+    "limit": 10,
+    "premium": false,
+    "createdAt": "2026-06-12T22:56:17.740Z",
+    "expiredAt": "2026-06-15T22:56:17.719Z",
+    "ExpLimit": "15 Juni 2026"
   }
 ]
