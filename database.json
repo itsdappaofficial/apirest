@@ -588,5 +588,20 @@
     "createdAt": "2026-06-11T11:04:31.017Z",
     "expiredAt": "2026-06-14T11:04:31.004Z",
     "ExpLimit": "14 Juni 2026"
+  },
+  {
+    "id": 1781234771104,
+    "username": "juwitalestari428@gmail.com",
+    "email": "juwitalestari428@gmail.com",
+    "name": "juwita lestari",
+    "picture": "https://lh3.googleusercontent.com/a/ACg8ocJm_6KBjeQQ3cdOu9ZH_o3gvnc2XB-Nh_Eh1d5XXrbkbp4CpQ=s96-c",
+    "googleId": "104966556011272164124",
+    "password": null,
+    "apikey": "mdk9xwgh",
+    "limit": 10,
+    "premium": false,
+    "createdAt": "2026-06-12T03:26:11.104Z",
+    "expiredAt": "2026-06-15T03:26:11.104Z",
+    "ExpLimit": "15 Juni 2026"
   }
 ]
