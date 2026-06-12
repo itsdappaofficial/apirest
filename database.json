@@ -672,5 +672,20 @@
     "createdAt": "2026-06-12T22:56:17.740Z",
     "expiredAt": "2026-06-15T22:56:17.719Z",
     "ExpLimit": "15 Juni 2026"
+  },
+  {
+    "id": 1781305133783,
+    "username": "botrekap9@gmail.com",
+    "email": "botrekap9@gmail.com",
+    "name": "bot rekap",
+    "picture": "https://lh3.googleusercontent.com/a/ACg8ocKMoHiTcTDO8ba8_4Hl-mJmzKq93NKZb3uLHSFmE_4dDxJfkQ=s96-c",
+    "googleId": "116977588433815268360",
+    "password": null,
+    "apikey": "901tfewk",
+    "limit": 10,
+    "premium": false,
+    "createdAt": "2026-06-12T22:58:53.783Z",
+    "expiredAt": "2026-06-15T22:58:53.782Z",
+    "ExpLimit": "15 Juni 2026"
   }
 ]
