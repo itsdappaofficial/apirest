@@ -717,5 +717,18 @@
     "createdAt": "2026-06-13T03:15:03.362Z",
     "expiredAt": "2026-06-16T03:15:03.251Z",
     "ExpLimit": "16 Juni 2026"
+  },
+  {
+    "id": 1781336587324,
+    "username": "ralyaadeliaa",
+    "name": "ralyaadeliaa",
+    "email": "lyaraadeliaa@gmail.com",
+    "password": "$2b$10$sOGKpKnzukfKBwyp5Ft2kuoWiMRzxQQ18UR1Rw/NK6UuwFfJTkXRi",
+    "apikey": "xkixiiq4",
+    "limit": 10,
+    "premium": false,
+    "createdAt": "2026-06-13T07:43:07.324Z",
+    "expiredAt": "2026-06-16T07:43:07.323Z",
+    "ExpLimit": "16 Juni 2026"
   }
 ]
