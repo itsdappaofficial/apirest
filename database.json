@@ -745,5 +745,18 @@
     "createdAt": "2026-06-13T08:04:11.613Z",
     "expiredAt": "2026-06-16T08:04:11.613Z",
     "ExpLimit": "16 Juni 2026"
+  },
+  {
+    "id": 1781419587258,
+    "username": "lysa",
+    "name": "lysa",
+    "email": "celysastore@gmail.com",
+    "password": "$2b$10$kgWLunTAQdkl3GHY6iULOOPkkb0Uxubj8zWXt6HJXr8NKJ2BuJs8G",
+    "apikey": "66rvoj23",
+    "limit": 10,
+    "premium": false,
+    "createdAt": "2026-06-14T06:46:27.258Z",
+    "expiredAt": "2026-06-17T06:46:27.240Z",
+    "ExpLimit": "17 Juni 2026"
   }
 ]
