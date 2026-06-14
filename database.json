@@ -118,10 +118,10 @@
     "googleId": "107202194005640770544",
     "password": null,
     "apikey": "jvuff71q",
-    "limit": 10,
-    "premium": false,
+    "limit": 2000,
+    "premium": true,
     "createdAt": "2026-05-29T02:34:37.163Z",
-    "expiredAt": "2026-06-01T02:34:37.162Z",
+    "expiredAt": "2026-05-31T19:34:00.000Z",
     "ExpLimit": "1 Juni 2026"
   },
   {
