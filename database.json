@@ -119,9 +119,9 @@
     "password": null,
     "apikey": "jvuff71q",
     "limit": 10,
-    "premium": true,
+    "premium": false,
     "createdAt": "2026-05-29T02:34:37.163Z",
-    "expiredAt": "2026-06-20T05:34:00.000Z",
+    "expiredAt": "2026-06-19T22:34:00.000Z",
     "ExpLimit": "20 Juni 2026"
   },
   {
