@@ -741,9 +741,9 @@
     "password": null,
     "apikey": "pcbo52tv",
     "limit": 1001,
-    "premium": false,
+    "premium": true,
     "createdAt": "2026-06-13T08:04:11.613Z",
-    "expiredAt": "2026-07-16T00:03:00.000Z",
+    "expiredAt": "2026-07-15T17:03:00.000Z",
     "ExpLimit": "16 Juli 2026"
   },
   {
