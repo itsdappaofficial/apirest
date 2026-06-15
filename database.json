@@ -766,10 +766,10 @@
     "email": "haicaca818@gmail.com",
     "password": "$2b$10$F9CD5zfQf46GtI91goFbJuidZhzqMFRWRMCLh1iCR1urMiOGjCJR.",
     "apikey": "h2kv8h4l",
-    "limit": 10,
-    "premium": false,
+    "limit": 1100,
+    "premium": true,
     "createdAt": "2026-06-15T07:22:21.112Z",
-    "expiredAt": "2026-06-18T07:22:21.112Z",
-    "ExpLimit": "18 Juni 2026"
+    "expiredAt": "2026-07-15T00:22:00.000Z",
+    "ExpLimit": "15 Juli 2026"
   }
 ]
