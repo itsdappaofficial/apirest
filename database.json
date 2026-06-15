@@ -758,5 +758,18 @@
     "createdAt": "2026-06-14T06:46:27.258Z",
     "expiredAt": "2026-06-17T06:46:27.240Z",
     "ExpLimit": "17 Juni 2026"
+  },
+  {
+    "id": 1781508141112,
+    "username": "wid",
+    "name": "wid",
+    "email": "haicaca818@gmail.com",
+    "password": "$2b$10$F9CD5zfQf46GtI91goFbJuidZhzqMFRWRMCLh1iCR1urMiOGjCJR.",
+    "apikey": "h2kv8h4l",
+    "limit": 10,
+    "premium": false,
+    "createdAt": "2026-06-15T07:22:21.112Z",
+    "expiredAt": "2026-06-18T07:22:21.112Z",
+    "ExpLimit": "18 Juni 2026"
   }
 ]
