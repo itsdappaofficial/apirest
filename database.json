@@ -771,5 +771,18 @@
     "createdAt": "2026-06-15T07:22:21.112Z",
     "expiredAt": "2026-07-15T00:22:00.000Z",
     "ExpLimit": "15 Juli 2026"
+  },
+  {
+    "id": 1781540914178,
+    "username": "cheissy",
+    "name": "cheissy",
+    "email": "cheissy768@gmail.com",
+    "password": "$2b$10$XyNpue3JDWLTms8j8qe5G.AH4GHSr4Js1tHwdutgdbz2nyYakEVL6",
+    "apikey": "htx6flf9",
+    "limit": 10,
+    "premium": false,
+    "createdAt": "2026-06-15T16:28:34.178Z",
+    "expiredAt": "2026-06-18T16:28:34.165Z",
+    "ExpLimit": "18 Juni 2026"
   }
 ]
