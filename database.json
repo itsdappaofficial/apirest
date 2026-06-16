@@ -497,7 +497,7 @@
   {
     "id": 1780902276848,
     "username": "ella",
-    "name": "ella",
+    "name": "mutiara",
     "email": "mtia02136@gmail.com",
     "password": "$2b$10$coegCW2qE5lZ9K.nr7pZberJwnrZQfRwEzRWbQCwDYrTk2p2syM7W",
     "apikey": "d30h5u61",
@@ -505,7 +505,8 @@
     "premium": false,
     "createdAt": "2026-06-08T07:04:36.848Z",
     "expiredAt": "2026-06-11T07:04:36.847Z",
-    "ExpLimit": "11 Juni 2026"
+    "ExpLimit": "11 Juni 2026",
+    "picture": "https://lh3.googleusercontent.com/a/ACg8ocIr4zqA82D-0wmm-W2vGXDDGAGzdJhJCTqkFah1Zl6Kd5Wq9gFf=s96-c"
   },
   {
     "id": 1780974818993,
