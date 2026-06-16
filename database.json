@@ -531,11 +531,11 @@
     "googleId": "116214591837531625312",
     "password": null,
     "apikey": "35unl09v",
-    "limit": 10,
-    "premium": false,
+    "limit": 1010,
+    "premium": true,
     "createdAt": "2026-06-09T06:25:40.928Z",
-    "expiredAt": "2026-06-12T06:25:40.928Z",
-    "ExpLimit": "12 Juni 2026"
+    "expiredAt": "2026-07-11T22:18:00.000Z",
+    "ExpLimit": "12 Juli 2026"
   },
   {
     "id": 1781083875404,
