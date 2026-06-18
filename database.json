@@ -826,5 +826,18 @@
     "createdAt": "2026-06-18T12:29:13.835Z",
     "expiredAt": "2026-06-21T12:29:13.835Z",
     "ExpLimit": "21 Juni 2026"
+  },
+  {
+    "id": 1781785994713,
+    "username": "wawacvyy",
+    "name": "wawacvyy",
+    "email": "wawaaaimuut11@gmail.com",
+    "password": "$2b$10$gTrWzapK1ajh.qk9u3eGIu8nrzjyt/s29a.LDE77l2QHC8dglEf7C",
+    "apikey": "v4fbfivj",
+    "limit": 10,
+    "premium": false,
+    "createdAt": "2026-06-18T12:33:14.713Z",
+    "expiredAt": "2026-06-21T12:33:14.712Z",
+    "ExpLimit": "21 Juni 2026"
   }
 ]
