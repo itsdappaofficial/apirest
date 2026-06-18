@@ -839,5 +839,18 @@
     "createdAt": "2026-06-18T12:33:14.713Z",
     "expiredAt": "2026-06-21T12:33:14.712Z",
     "ExpLimit": "21 Juni 2026"
+  },
+  {
+    "id": 1781801839487,
+    "username": "freyaaimupp",
+    "name": "freyaaimupp",
+    "email": "revistore27@gmail.com",
+    "password": "$2b$10$63j0Sh8ce8OJNvSK2NHV9u0JZSGEuFMFxrb94cmfku2tKOvnhTKOm",
+    "apikey": "96wld54m",
+    "limit": 10,
+    "premium": false,
+    "createdAt": "2026-06-18T16:57:19.487Z",
+    "expiredAt": "2026-06-21T16:57:19.463Z",
+    "ExpLimit": "21 Juni 2026"
   }
 ]
