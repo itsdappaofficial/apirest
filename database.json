@@ -852,5 +852,20 @@
     "createdAt": "2026-06-18T16:57:19.487Z",
     "expiredAt": "2026-07-21T02:54:00.000Z",
     "ExpLimit": "21 Juli 2026"
+  },
+  {
+    "id": 1781846938778,
+    "username": "miustore27@gmail.com",
+    "email": "miustore27@gmail.com",
+    "name": "miu store",
+    "picture": "https://lh3.googleusercontent.com/a/ACg8ocIlBz7ir-dip03lti7r7svzAwbbnRyYoA2j8QgZKERw9pXf6g=s96-c",
+    "googleId": "111469237132811588941",
+    "password": null,
+    "apikey": "2iczvjzb",
+    "limit": 10,
+    "premium": false,
+    "createdAt": "2026-06-19T05:28:58.778Z",
+    "expiredAt": "2026-06-22T05:28:58.778Z",
+    "ExpLimit": "22 Juni 2026"
   }
 ]
