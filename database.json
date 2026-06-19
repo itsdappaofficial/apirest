@@ -847,10 +847,10 @@
     "email": "revistore27@gmail.com",
     "password": "$2b$10$qsbiSXhhkFgFRzIBGh6Aku7VkJmVStpZOUZc2gsS/ct0HnK1as/ye",
     "apikey": "96wld54m",
-    "limit": 10,
+    "limit": 5010,
     "premium": false,
     "createdAt": "2026-06-18T16:57:19.487Z",
-    "expiredAt": "2026-06-21T16:57:19.463Z",
-    "ExpLimit": "21 Juni 2026"
+    "expiredAt": "2026-07-21T09:54:00.000Z",
+    "ExpLimit": "21 Juli 2026"
   }
 ]
