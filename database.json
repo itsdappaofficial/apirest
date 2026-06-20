@@ -890,11 +890,11 @@
     "email": "ranikasma78@gmail.com",
     "password": "$2b$10$xoOzfBoGYsprwy5U9P2UTuFaxW6fP0L3EGM3fazt3e0xRwD9nR0Dm",
     "apikey": "s13jj8g7",
-    "limit": 10,
-    "premium": false,
+    "limit": 5010,
+    "premium": true,
     "createdAt": "2026-06-20T16:23:12.602Z",
-    "expiredAt": "2026-06-23T16:23:12.601Z",
-    "ExpLimit": "23 Juni 2026"
+    "expiredAt": "2026-07-23T09:23:00.000Z",
+    "ExpLimit": "23 Juli 2026"
   },
   {
     "id": 1781972714976,
