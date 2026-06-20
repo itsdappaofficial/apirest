@@ -908,5 +908,18 @@
     "createdAt": "2026-06-20T16:25:14.976Z",
     "expiredAt": "2026-07-21T09:24:00.000Z",
     "ExpLimit": "21 Juli 2026"
+  },
+  {
+    "id": 1781974754002,
+    "username": "fafawwww",
+    "name": "fafawwww",
+    "email": "inokaco112233@gmail.com",
+    "password": "$2b$10$2Uw82E3wwRHohFbOg/Wnl.kcjFan952OlSDZ/rY9MFy9MQK51m6eq",
+    "apikey": "c3c9by2t",
+    "limit": 10,
+    "premium": false,
+    "createdAt": "2026-06-20T16:59:14.002Z",
+    "expiredAt": "2026-06-23T16:59:14.002Z",
+    "ExpLimit": "23 Juni 2026"
   }
 ]
