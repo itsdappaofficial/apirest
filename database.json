@@ -895,5 +895,18 @@
     "createdAt": "2026-06-20T16:23:12.602Z",
     "expiredAt": "2026-06-23T16:23:12.601Z",
     "ExpLimit": "23 Juni 2026"
+  },
+  {
+    "id": 1781972714976,
+    "username": "raraa ruok",
+    "name": "raraa ruok",
+    "email": "cimolluyy@gmail.com",
+    "password": "$2b$10$7pSTU2VVaZ/Dye6EpWIJ7eGBYsuM5FNF/be9E0Ez6.lhQsRMWFmIe",
+    "apikey": "4gjuixj2",
+    "limit": 10,
+    "premium": false,
+    "createdAt": "2026-06-20T16:25:14.976Z",
+    "expiredAt": "2026-06-23T16:25:14.975Z",
+    "ExpLimit": "23 Juni 2026"
   }
 ]
