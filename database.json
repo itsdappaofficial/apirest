@@ -867,5 +867,20 @@
     "createdAt": "2026-06-19T05:28:58.778Z",
     "expiredAt": "2026-07-19T22:28:00.000Z",
     "ExpLimit": "20 Juli 2026"
+  },
+  {
+    "id": 1781971921299,
+    "username": "ekomuhamad34@gmail.com",
+    "email": "ekomuhamad34@gmail.com",
+    "name": "Eko Muhammad Mardiyansyah",
+    "picture": "https://lh3.googleusercontent.com/a/ACg8ocIH-oyWPrn8jlxs4yUcwt_p8lHBxde0SZB_23iIANXLMWSk4hHy=s96-c",
+    "googleId": "105533720637718019098",
+    "password": null,
+    "apikey": "ayeglmfq",
+    "limit": 10,
+    "premium": false,
+    "createdAt": "2026-06-20T16:12:01.299Z",
+    "expiredAt": "2026-06-23T16:12:01.286Z",
+    "ExpLimit": "23 Juni 2026"
   }
 ]
