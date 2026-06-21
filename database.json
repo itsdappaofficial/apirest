@@ -877,11 +877,11 @@
     "googleId": "105533720637718019098",
     "password": null,
     "apikey": "ayeglmfq",
-    "limit": 4,
-    "premium": false,
+    "limit": 1004,
+    "premium": true,
     "createdAt": "2026-06-20T16:12:01.299Z",
-    "expiredAt": "2026-06-23T16:12:01.286Z",
-    "ExpLimit": "23 Juni 2026"
+    "expiredAt": "2026-07-21T09:12:00.000Z",
+    "ExpLimit": "21 Juli 2026"
   },
   {
     "id": 1781972592602,
