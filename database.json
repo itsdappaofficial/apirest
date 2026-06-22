@@ -32,11 +32,11 @@
     "email": "vtkenanganft@gmail.com",
     "password": "$2b$10$5BasX3VqnOHddxJxiYXatugp8CJqEE/TOk1tXINqAhLXRZUjMc4l.",
     "apikey": "re5fdqq7",
-    "limit": 10,
-    "premium": false,
+    "limit": 1010,
+    "premium": true,
     "createdAt": "2026-05-28T05:05:29.521Z",
-    "expiredAt": "2026-05-31T05:05:29.521Z",
-    "ExpLimit": "31 Mei 2026"
+    "expiredAt": "2026-07-22T22:06:00.000Z",
+    "ExpLimit": "23 Juli 2026"
   },
   {
     "id": 1779945737012,
