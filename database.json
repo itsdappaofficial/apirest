@@ -951,5 +951,18 @@
     "createdAt": "2026-06-22T18:48:16.493Z",
     "expiredAt": "2026-06-25T18:48:16.492Z",
     "ExpLimit": "25 Juni 2026"
+  },
+  {
+    "id": 1782242901285,
+    "username": "hannasufi11",
+    "name": "hannasufi11",
+    "email": "hannasufi11@gmail.com",
+    "password": "$2b$10$PU2zLvsb78k0q2nuiT85Ye5VNwq4bKFkxav0qmiN.kj4HVB.EZZg6",
+    "apikey": "xus2o9sn",
+    "limit": 10,
+    "premium": false,
+    "createdAt": "2026-06-23T19:28:21.285Z",
+    "expiredAt": "2026-06-26T19:28:21.244Z",
+    "ExpLimit": "26 Juni 2026"
   }
 ]
