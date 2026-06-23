@@ -964,5 +964,18 @@
     "createdAt": "2026-06-23T19:28:21.285Z",
     "expiredAt": "2026-06-26T19:28:21.244Z",
     "ExpLimit": "26 Juni 2026"
+  },
+  {
+    "id": 1782243973325,
+    "username": "Dolax",
+    "name": "Dolax",
+    "email": "storedolax@gmail.com",
+    "password": "$2b$10$Roa62VUoLTcDTB2pFI4Druh7OhQ2zgeCa22RFOuCcJelnl8pq5XtO",
+    "apikey": "jgs9w18k",
+    "limit": 10,
+    "premium": false,
+    "createdAt": "2026-06-23T19:46:13.325Z",
+    "expiredAt": "2026-06-26T19:46:13.325Z",
+    "ExpLimit": "26 Juni 2026"
   }
 ]
