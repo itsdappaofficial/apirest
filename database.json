@@ -1007,5 +1007,20 @@
     "createdAt": "2026-06-24T11:44:29.907Z",
     "expiredAt": "2026-06-27T11:44:29.906Z",
     "ExpLimit": "27 Juni 2026"
+  },
+  {
+    "id": 1782372912555,
+    "username": "uaja2738@gmail.com",
+    "email": "uaja2738@gmail.com",
+    "name": "fik",
+    "picture": "https://lh3.googleusercontent.com/a/ACg8ocLtEwL4EowPrULH_EuucU-8a2jE7GLlJ3HaunT0SAtLEeZzy8M=s96-c",
+    "googleId": "112556592701800959110",
+    "password": null,
+    "apikey": "h6gx3p8t",
+    "limit": 10,
+    "premium": false,
+    "createdAt": "2026-06-25T07:35:12.555Z",
+    "expiredAt": "2026-06-28T07:35:12.535Z",
+    "ExpLimit": "28 Juni 2026"
   }
 ]
