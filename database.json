@@ -1037,5 +1037,18 @@
     "createdAt": "2026-06-25T09:02:58.326Z",
     "expiredAt": "2026-06-28T09:02:58.325Z",
     "ExpLimit": "28 Juni 2026"
+  },
+  {
+    "id": 1782424168712,
+    "username": "anwarrambe",
+    "name": "anwarrambe",
+    "email": "rambe064@gmail.com",
+    "password": "$2b$10$i8mBiMJIQkkCa8NrU0jaZ.K6zx9qHHs7euCY2n6YNb5nOBEL3xcpO",
+    "apikey": "07gxi9ky",
+    "limit": 10,
+    "premium": false,
+    "createdAt": "2026-06-25T21:49:28.712Z",
+    "expiredAt": "2026-06-28T21:49:28.711Z",
+    "ExpLimit": "28 Juni 2026"
   }
 ]
