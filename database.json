@@ -1050,5 +1050,20 @@
     "createdAt": "2026-06-25T21:49:28.712Z",
     "expiredAt": "2026-06-28T21:49:28.711Z",
     "ExpLimit": "28 Juni 2026"
+  },
+  {
+    "id": 1782444937778,
+    "username": "bulanfatikha@gmail.com",
+    "email": "bulanfatikha@gmail.com",
+    "name": "Bulan Fatikha",
+    "picture": "https://lh3.googleusercontent.com/a/ACg8ocIE2kq-m4k1xY6uL4sR0G55Di84yf6K02gUACejA9lx7MXLWA=s96-c",
+    "googleId": "110045396218951783565",
+    "password": null,
+    "apikey": "e6hnc7nn",
+    "limit": 10,
+    "premium": false,
+    "createdAt": "2026-06-26T03:35:37.778Z",
+    "expiredAt": "2026-06-29T03:35:37.778Z",
+    "ExpLimit": "29 Juni 2026"
   }
 ]
