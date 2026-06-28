@@ -1108,5 +1108,20 @@
     "createdAt": "2026-06-28T08:33:54.261Z",
     "expiredAt": "2026-07-28T08:35:02.587Z",
     "ExpLimit": "28 Juli 2026"
+  },
+  {
+    "id": 1782645695718,
+    "username": "andikafathir001@gmail.com",
+    "email": "andikafathir001@gmail.com",
+    "name": "Andika",
+    "picture": "https://lh3.googleusercontent.com/a/ACg8ocLMhAE6kD5MmviFLVJDOf9EtcMk5eyq-K4p77bsBZjJypEB1qQK=s96-c",
+    "googleId": "107423436306394805809",
+    "password": null,
+    "apikey": "zojsx8uf",
+    "limit": 10,
+    "premium": false,
+    "createdAt": "2026-06-28T11:21:35.718Z",
+    "expiredAt": "2026-07-01T11:21:35.717Z",
+    "ExpLimit": "1 Juli 2026"
   }
 ]
