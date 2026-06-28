@@ -1080,5 +1080,18 @@
     "createdAt": "2026-06-28T07:38:30.385Z",
     "expiredAt": "2026-07-01T07:38:30.344Z",
     "ExpLimit": "1 Juli 2026"
+  },
+  {
+    "id": 1782635402263,
+    "username": "riyanofficial",
+    "name": "riyanofficial",
+    "email": "riyanmuhamadalvian@gmail.com",
+    "password": "$2b$10$5V233i4rHREXjw0f5O8.Le23rOug5UxYI4XYLNinB//D4JzdPZCle",
+    "apikey": "nx5ipp5n",
+    "limit": 10,
+    "premium": false,
+    "createdAt": "2026-06-28T08:30:02.263Z",
+    "expiredAt": "2026-07-01T08:30:02.263Z",
+    "ExpLimit": "1 Juli 2026"
   }
 ]
