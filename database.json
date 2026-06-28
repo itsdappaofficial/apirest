@@ -1065,5 +1065,20 @@
     "createdAt": "2026-06-26T03:35:37.778Z",
     "expiredAt": "2026-06-29T03:35:37.778Z",
     "ExpLimit": "29 Juni 2026"
+  },
+  {
+    "id": 1782632310383,
+    "username": "hiura0012@gmail.com",
+    "email": "hiura0012@gmail.com",
+    "name": "hiura",
+    "picture": "https://lh3.googleusercontent.com/a/ACg8ocKAp9K76zaBKSxH6qvG-8PbCE51Tv5S09Ulxw24ZWcyDi45oQE=s96-c",
+    "googleId": "105959682174659233041",
+    "password": null,
+    "apikey": "zex972bc",
+    "limit": 10,
+    "premium": false,
+    "createdAt": "2026-06-28T07:38:30.385Z",
+    "expiredAt": "2026-07-01T07:38:30.344Z",
+    "ExpLimit": "1 Juli 2026"
   }
 ]
