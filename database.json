@@ -1093,5 +1093,20 @@
     "createdAt": "2026-06-28T08:30:02.263Z",
     "expiredAt": "2026-07-01T08:30:02.263Z",
     "ExpLimit": "1 Juli 2026"
+  },
+  {
+    "id": 1782635634261,
+    "username": "gmadeliar@gmail.com",
+    "email": "gmadeliar@gmail.com",
+    "name": "gmadeliar",
+    "picture": "https://lh3.googleusercontent.com/a/ACg8ocI7vZLgXcPKfAOIVRHSVgGBrSBv4jrYXqN6M6OCHfvho_aXTCk=s96-c",
+    "googleId": "114338278280310989667",
+    "password": null,
+    "apikey": "fe7apz9g",
+    "limit": 10,
+    "premium": false,
+    "createdAt": "2026-06-28T08:33:54.261Z",
+    "expiredAt": "2026-07-01T08:33:54.261Z",
+    "ExpLimit": "1 Juli 2026"
   }
 ]
