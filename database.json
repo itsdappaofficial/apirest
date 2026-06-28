@@ -1123,5 +1123,20 @@
     "createdAt": "2026-06-28T11:21:35.718Z",
     "expiredAt": "2026-07-01T11:21:35.717Z",
     "ExpLimit": "1 Juli 2026"
+  },
+  {
+    "id": 1782646773117,
+    "username": "rudilucuk@gmail.com",
+    "email": "rudilucuk@gmail.com",
+    "name": "Rudilucuk124",
+    "picture": "https://lh3.googleusercontent.com/a/ACg8ocLesTtftZtiiz3PaDAmeNTyI4dCjZlrfJeldRJSVGpdV-pvsw=s96-c",
+    "googleId": "106516398421141829916",
+    "password": null,
+    "apikey": "d2hqtwsc",
+    "limit": 10,
+    "premium": false,
+    "createdAt": "2026-06-28T11:39:33.117Z",
+    "expiredAt": "2026-07-01T11:39:33.116Z",
+    "ExpLimit": "1 Juli 2026"
   }
 ]
