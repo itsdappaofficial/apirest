@@ -1146,10 +1146,10 @@
     "email": "ervrilzeeata@gmail.com",
     "password": "$2b$10$Qy63FWJLbDRDvzrlcl/tO.F/QumVi4NiAIA1uZsiqQYxKNW8.IgbC",
     "apikey": "l3t360l2",
-    "limit": 10,
-    "premium": false,
+    "limit": 1010,
+    "premium": true,
     "createdAt": "2026-06-29T04:26:29.263Z",
-    "expiredAt": "2026-07-02T04:26:29.262Z",
-    "ExpLimit": "2 Juli 2026"
+    "expiredAt": "2026-07-29T04:30:01.760Z",
+    "ExpLimit": "29 Juli 2026"
   }
 ]
