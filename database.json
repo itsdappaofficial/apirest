@@ -1138,5 +1138,18 @@
     "createdAt": "2026-06-28T11:39:33.117Z",
     "expiredAt": "2026-07-01T11:39:33.116Z",
     "ExpLimit": "1 Juli 2026"
+  },
+  {
+    "id": 1782707189263,
+    "username": "ceyaaacy",
+    "name": "ceyaaacy",
+    "email": "ervrilzeeata@gmail.com",
+    "password": "$2b$10$Qy63FWJLbDRDvzrlcl/tO.F/QumVi4NiAIA1uZsiqQYxKNW8.IgbC",
+    "apikey": "l3t360l2",
+    "limit": 10,
+    "premium": false,
+    "createdAt": "2026-06-29T04:26:29.263Z",
+    "expiredAt": "2026-07-02T04:26:29.262Z",
+    "ExpLimit": "2 Juli 2026"
   }
 ]
