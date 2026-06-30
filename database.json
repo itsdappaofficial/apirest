@@ -1192,5 +1192,18 @@
     "createdAt": "2026-06-30T05:50:41.307Z",
     "expiredAt": "2026-07-30T05:52:44.935Z",
     "ExpLimit": "30 Juli 2026"
+  },
+  {
+    "id": 1782805705139,
+    "username": "ramz",
+    "name": "ramz",
+    "email": "naragij533@luxudata.com",
+    "password": "$2b$10$HpJQNKsPgoR0pIMvEBoNPuvp7xPLYELeNUtc9HXW0VLnioI/io2KW",
+    "apikey": "dnmiauaf",
+    "limit": 10,
+    "premium": false,
+    "createdAt": "2026-06-30T07:48:25.139Z",
+    "expiredAt": "2026-07-03T07:48:25.138Z",
+    "ExpLimit": "3 Juli 2026"
   }
 ]
