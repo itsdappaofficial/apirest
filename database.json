@@ -1205,5 +1205,20 @@
     "createdAt": "2026-06-30T07:48:25.139Z",
     "expiredAt": "2026-07-03T07:48:25.138Z",
     "ExpLimit": "3 Juli 2026"
+  },
+  {
+    "id": 1782827591881,
+    "username": "allukazldyck22@gmail.com",
+    "email": "allukazldyck22@gmail.com",
+    "name": "alluka zldyck",
+    "picture": "https://lh3.googleusercontent.com/a/ACg8ocIPKVWsEw3zYoSMw2xiFQadpcBI7AuBe_Owk17a1QD0NdONjG8=s96-c",
+    "googleId": "110836439711788554469",
+    "password": null,
+    "apikey": "am3petvp",
+    "limit": 10,
+    "premium": false,
+    "createdAt": "2026-06-30T13:53:11.881Z",
+    "expiredAt": "2026-07-03T13:53:11.880Z",
+    "ExpLimit": "3 Juli 2026"
   }
 ]
