@@ -1179,5 +1179,18 @@
     "createdAt": "2026-06-30T05:15:00.074Z",
     "expiredAt": "2026-07-03T05:15:00.073Z",
     "ExpLimit": "3 Juli 2026"
+  },
+  {
+    "id": 1782798641307,
+    "username": "angry18",
+    "name": "angry18",
+    "email": "angryray18@gmail.com",
+    "password": "$2b$10$ItKdGPfRK6j4UhJ9HcAKXu8QiCehSRo3N6kiN6akd7w6aNWwDsOXW",
+    "apikey": "4o27rxed",
+    "limit": 10,
+    "premium": false,
+    "createdAt": "2026-06-30T05:50:41.307Z",
+    "expiredAt": "2026-07-03T05:50:41.307Z",
+    "ExpLimit": "3 Juli 2026"
   }
 ]
