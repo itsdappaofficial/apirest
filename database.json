@@ -1166,5 +1166,18 @@
     "createdAt": "2026-06-29T18:09:40.418Z",
     "expiredAt": "2026-07-29T18:11:22.216Z",
     "ExpLimit": "29 Juli 2026"
+  },
+  {
+    "id": 1782796500074,
+    "username": "Safitri",
+    "name": "Safitri",
+    "email": "norsafitri178@gmail.com",
+    "password": "$2b$10$Fqd6ZgD0V7dOMauztNydgunR6STlal8qj.UVthoarhU/Yx3Qah8CC",
+    "apikey": "nvb8gnh6",
+    "limit": 10,
+    "premium": false,
+    "createdAt": "2026-06-30T05:15:00.074Z",
+    "expiredAt": "2026-07-03T05:15:00.073Z",
+    "ExpLimit": "3 Juli 2026"
   }
 ]
