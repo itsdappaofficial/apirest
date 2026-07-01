@@ -1261,5 +1261,18 @@
     "createdAt": "2026-06-30T15:13:58.008Z",
     "expiredAt": "2026-07-03T15:13:58.007Z",
     "ExpLimit": "3 Juli 2026"
+  },
+  {
+    "id": 1782911318205,
+    "username": "echa",
+    "name": "echa",
+    "email": "azhrauygg@gmail.com",
+    "password": "$2b$10$QsiptvEV6x63kMK6zXbMN.TwpgRD49xTw.laL2gbfUdewb1MOCfxC",
+    "apikey": "buei879j",
+    "limit": 10,
+    "premium": false,
+    "createdAt": "2026-07-01T13:08:38.205Z",
+    "expiredAt": "2026-07-04T13:08:38.204Z",
+    "ExpLimit": "4 Juli 2026"
   }
 ]
