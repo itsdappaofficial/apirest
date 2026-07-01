@@ -1289,5 +1289,18 @@
     "createdAt": "2026-07-01T13:25:07.818Z",
     "expiredAt": "2026-07-04T13:25:07.817Z",
     "ExpLimit": "4 Juli 2026"
+  },
+  {
+    "id": 1782916208216,
+    "username": "jayeshoi",
+    "name": "jayeshoi",
+    "email": "meyloedi449@gmail.com",
+    "password": "$2b$10$km5ZX3w48/d4NgIV00GXVe8kf01nd/NRXLRMNnnmVrPOSPyNiOrm6",
+    "apikey": "1y79s4d4",
+    "limit": 10,
+    "premium": false,
+    "createdAt": "2026-07-01T14:30:08.217Z",
+    "expiredAt": "2026-07-04T14:30:08.180Z",
+    "ExpLimit": "4 Juli 2026"
   }
 ]
