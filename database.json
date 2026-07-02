@@ -1340,10 +1340,10 @@
     "email": "mutiaraaagemacc@gmail.com",
     "password": "$2b$10$bs5GXuuT3fscKQ3Ff/Sh/eJ2PJ7XgTWDrLiZ7lFDF13Kr5U2FlrJq",
     "apikey": "seu9blmb",
-    "limit": 10,
-    "premium": false,
+    "limit": 10000,
+    "premium": true,
     "createdAt": "2026-07-02T18:38:01.918Z",
-    "expiredAt": "2026-07-05T18:38:01.916Z",
-    "ExpLimit": "5 Juli 2026"
+    "expiredAt": "2026-09-05T11:38:00.000Z",
+    "ExpLimit": "5 September 2026"
   }
 ]
