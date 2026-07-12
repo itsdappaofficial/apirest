@@ -1360,5 +1360,18 @@
     "createdAt": "2026-07-06T09:48:17.887Z",
     "expiredAt": "2026-07-09T09:48:17.854Z",
     "ExpLimit": "9 Juli 2026"
+  },
+  {
+    "id": 1783836708618,
+    "username": "akbarsyhdt",
+    "name": "akbarsyhdt",
+    "email": "akbarsdt2604@gmail.com",
+    "password": "$2b$10$tb5/vQqnII60I3zL5DgUcuyNUdwXDMaU8SxLih1Y8UQS9FUwX55zS",
+    "apikey": "cngxesyp",
+    "limit": 10,
+    "premium": false,
+    "createdAt": "2026-07-12T06:11:48.618Z",
+    "expiredAt": "2026-07-15T06:11:48.598Z",
+    "ExpLimit": "15 Juli 2026"
   }
 ]
