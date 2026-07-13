@@ -1373,5 +1373,18 @@
     "createdAt": "2026-07-12T06:11:48.618Z",
     "expiredAt": "2026-07-15T06:11:48.598Z",
     "ExpLimit": "15 Juli 2026"
+  },
+  {
+    "id": 1783908299459,
+    "username": "seaaa",
+    "name": "seaaa",
+    "email": "dezz2hsn@gmail.com",
+    "password": "$2b$10$9fkBjEpOuAlzTmqe6fvBu.cgKR70HpwQDIVspXAxKrp4Hsp44GNKC",
+    "apikey": "haprhq0v",
+    "limit": 10,
+    "premium": false,
+    "createdAt": "2026-07-13T02:04:59.459Z",
+    "expiredAt": "2026-07-16T02:04:59.396Z",
+    "ExpLimit": "16 Juli 2026"
   }
 ]
