@@ -1386,5 +1386,18 @@
     "createdAt": "2026-07-13T02:04:59.459Z",
     "expiredAt": "2026-07-16T02:04:59.396Z",
     "ExpLimit": "16 Juli 2026"
+  },
+  {
+    "id": 1783921062720,
+    "username": "fafaww",
+    "name": "fafaww",
+    "email": "soksokan112233@gmail.com",
+    "password": "$2b$10$w5F.r0/U.TIhJ7aYDovr3OWHvcEtDE9WrWJrudn.wW..sllD5O8Qm",
+    "apikey": "c86str3l",
+    "limit": 10,
+    "premium": false,
+    "createdAt": "2026-07-13T05:37:42.720Z",
+    "expiredAt": "2026-07-16T05:37:42.719Z",
+    "ExpLimit": "16 Juli 2026"
   }
 ]
