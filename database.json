@@ -1436,10 +1436,10 @@
     "email": "awalicia8@gmail.com",
     "password": "$2b$10$IUxo29TBx2x0.X1E36tZB.O6bPkrc.Ga3S25VWvPvGlVNbugA4vXq",
     "apikey": "nzdkj4vv",
-    "limit": 10,
-    "premium": false,
+    "limit": 5010,
+    "premium": true,
     "createdAt": "2026-07-14T05:26:45.428Z",
-    "expiredAt": "2026-07-17T05:26:45.396Z",
-    "ExpLimit": "17 Juli 2026"
+    "expiredAt": "2026-08-14T22:26:00.000Z",
+    "ExpLimit": "15 Agustus 2026"
   }
 ]
