@@ -1441,5 +1441,18 @@
     "createdAt": "2026-07-14T05:26:45.428Z",
     "expiredAt": "2026-08-14T22:26:00.000Z",
     "ExpLimit": "15 Agustus 2026"
+  },
+  {
+    "id": 1784039205993,
+    "username": "admin",
+    "name": "admin",
+    "email": "bteguhwicaksono0756@gmail.com",
+    "password": "$2b$10$V4sHZOAk3/36yq.rGbQ7xOOwi73a.kIHLc1GqLRiATmYmKA9Z.OiC",
+    "apikey": "hd0ojyqv",
+    "limit": 10,
+    "premium": false,
+    "createdAt": "2026-07-14T14:26:45.993Z",
+    "expiredAt": "2026-07-17T14:26:45.992Z",
+    "ExpLimit": "17 Juli 2026"
   }
 ]
