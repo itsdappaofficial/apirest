@@ -1454,5 +1454,20 @@
     "createdAt": "2026-07-14T14:26:45.993Z",
     "expiredAt": "2026-07-17T14:26:45.992Z",
     "ExpLimit": "17 Juli 2026"
+  },
+  {
+    "id": 1784040373789,
+    "username": "putriputrimanarul@gmail.com",
+    "email": "putriputrimanarul@gmail.com",
+    "name": "Putrimanarul Putri",
+    "picture": "https://lh3.googleusercontent.com/a/ACg8ocKOeHuzsLvSrty8Wk02h4VpsACZ5zOuf6a97TgnWG_SI0hIjg=s96-c",
+    "googleId": "113338902393798596508",
+    "password": null,
+    "apikey": "7y3dhhro",
+    "limit": 10,
+    "premium": false,
+    "createdAt": "2026-07-14T14:46:13.789Z",
+    "expiredAt": "2026-07-17T14:46:13.788Z",
+    "ExpLimit": "17 Juli 2026"
   }
 ]
