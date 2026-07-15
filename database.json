@@ -1381,11 +1381,11 @@
     "email": "dezz2hsn@gmail.com",
     "password": "$2b$10$9fkBjEpOuAlzTmqe6fvBu.cgKR70HpwQDIVspXAxKrp4Hsp44GNKC",
     "apikey": "haprhq0v",
-    "limit": 10,
-    "premium": false,
+    "limit": 1000,
+    "premium": true,
     "createdAt": "2026-07-13T02:04:59.459Z",
-    "expiredAt": "2026-07-16T02:04:59.396Z",
-    "ExpLimit": "16 Juli 2026"
+    "expiredAt": "2026-08-15T19:04:00.000Z",
+    "ExpLimit": "16 Agustus 2026"
   },
   {
     "id": 1783921062720,
