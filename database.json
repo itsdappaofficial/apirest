@@ -1497,5 +1497,20 @@
     "createdAt": "2026-07-16T04:01:33.119Z",
     "expiredAt": "2026-08-15T08:05:43.145Z",
     "ExpLimit": "15 Agustus 2026"
+  },
+  {
+    "id": 1784205532520,
+    "username": "calderarizky73@gmail.com",
+    "email": "calderarizky73@gmail.com",
+    "name": "Caldera Rizkya",
+    "picture": "https://lh3.googleusercontent.com/a/ACg8ocLRtx131y9W1vSpgWeVU1CR0hzJrRQE88gSXQ7vIEvB1wozKL4=s96-c",
+    "googleId": "114780365446987706183",
+    "password": null,
+    "apikey": "dcgmkzyn",
+    "limit": 10,
+    "premium": false,
+    "createdAt": "2026-07-16T12:38:52.520Z",
+    "expiredAt": "2026-07-19T12:38:52.495Z",
+    "ExpLimit": "19 Juli 2026"
   }
 ]
