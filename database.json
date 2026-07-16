@@ -1512,5 +1512,20 @@
     "createdAt": "2026-07-16T12:38:52.520Z",
     "expiredAt": "2026-08-20T05:38:00.000Z",
     "ExpLimit": "20 Agustus 2026"
+  },
+  {
+    "id": 1784224125653,
+    "username": "apaajadahserah88@gmail.com",
+    "email": "apaajadahserah88@gmail.com",
+    "name": "Ga Tau",
+    "picture": "https://lh3.googleusercontent.com/a/ACg8ocI1daGYlu2bgHB3_iFrZqqxFxSGg4soO6RpCraKh08lb-z0Iw=s96-c",
+    "googleId": "101815029987063313836",
+    "password": null,
+    "apikey": "8ly6ryes",
+    "limit": 10,
+    "premium": false,
+    "createdAt": "2026-07-16T17:48:45.653Z",
+    "expiredAt": "2026-07-19T17:48:45.625Z",
+    "ExpLimit": "19 Juli 2026"
   }
 ]
