@@ -1507,7 +1507,7 @@
     "googleId": "114780365446987706183",
     "password": null,
     "apikey": "dcgmkzyn",
-    "limit": 1000,
+    "limit": 999,
     "premium": true,
     "createdAt": "2026-07-16T12:38:52.520Z",
     "expiredAt": "2026-08-20T05:38:00.000Z",
