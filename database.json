@@ -1557,5 +1557,20 @@
     "createdAt": "2026-07-17T15:09:35.355Z",
     "expiredAt": "2026-07-20T15:09:35.354Z",
     "ExpLimit": "20 Juli 2026"
+  },
+  {
+    "id": 1784591177789,
+    "username": "depptalkweto@gmail.com",
+    "email": "depptalkweto@gmail.com",
+    "name": "depptalk weto",
+    "picture": "https://lh3.googleusercontent.com/a/ACg8ocKCHqR2EYTrgXAMZuNoq5WvKg1VBgRqBRVcV90ntVUN6XBebA=s96-c",
+    "googleId": "109577320887524365139",
+    "password": null,
+    "apikey": "2dlux08j",
+    "limit": 10,
+    "premium": false,
+    "createdAt": "2026-07-20T23:46:17.791Z",
+    "expiredAt": "2026-07-23T23:46:17.567Z",
+    "ExpLimit": "23 Juli 2026"
   }
 ]
