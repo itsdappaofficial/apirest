@@ -1394,7 +1394,7 @@
     "email": "soksokan112233@gmail.com",
     "password": "$2b$10$w5F.r0/U.TIhJ7aYDovr3OWHvcEtDE9WrWJrudn.wW..sllD5O8Qm",
     "apikey": "c86str3l",
-    "limit": 5002,
+    "limit": 5001,
     "premium": true,
     "createdAt": "2026-07-13T05:37:42.720Z",
     "expiredAt": "2026-08-14T22:38:00.000Z",
