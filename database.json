@@ -1368,11 +1368,11 @@
     "email": "akbarsdt2604@gmail.com",
     "password": "$2b$10$tb5/vQqnII60I3zL5DgUcuyNUdwXDMaU8SxLih1Y8UQS9FUwX55zS",
     "apikey": "cngxesyp",
-    "limit": 10,
-    "premium": false,
+    "limit": 1010,
+    "premium": true,
     "createdAt": "2026-07-12T06:11:48.618Z",
-    "expiredAt": "2026-07-15T06:11:48.598Z",
-    "ExpLimit": "15 Juli 2026",
+    "expiredAt": "2026-08-20T02:26:48.819Z",
+    "ExpLimit": "20 Agustus 2026",
     "picture": "https://lh3.googleusercontent.com/a/ACg8ocI4MrJd2KNaE_piwTG5-j3Oji8WFK4Nmyq_f817c71Nm1-rPYfG=s96-c"
   },
   {
