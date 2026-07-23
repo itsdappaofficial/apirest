@@ -1624,10 +1624,10 @@
     "email": "kecyputri@gmail.com",
     "password": "$2b$10$NQFO7C3mCk/f.5b8QcJGaOj7pnhg7vqARdaNgvOr6BdZhhRHJ9why",
     "apikey": "rgvw3jvg",
-    "limit": 10,
-    "premium": false,
+    "limit": 5010,
+    "premium": true,
     "createdAt": "2026-07-23T08:01:38.679Z",
-    "expiredAt": "2026-07-26T08:01:38.633Z",
-    "ExpLimit": "26 Juli 2026"
+    "expiredAt": "2026-08-22T08:04:00.290Z",
+    "ExpLimit": "22 Agustus 2026"
   }
 ]
