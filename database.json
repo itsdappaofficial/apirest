@@ -1616,5 +1616,18 @@
     "createdAt": "2026-07-22T04:48:52.613Z",
     "expiredAt": "2026-07-25T04:48:52.612Z",
     "ExpLimit": "25 Juli 2026"
+  },
+  {
+    "id": 1784793698679,
+    "username": "premcyku",
+    "name": "premcyku",
+    "email": "kecyputri@gmail.com",
+    "password": "$2b$10$NQFO7C3mCk/f.5b8QcJGaOj7pnhg7vqARdaNgvOr6BdZhhRHJ9why",
+    "apikey": "rgvw3jvg",
+    "limit": 10,
+    "premium": false,
+    "createdAt": "2026-07-23T08:01:38.679Z",
+    "expiredAt": "2026-07-26T08:01:38.633Z",
+    "ExpLimit": "26 Juli 2026"
   }
 ]
