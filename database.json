@@ -1642,5 +1642,18 @@
     "createdAt": "2026-07-24T06:28:37.235Z",
     "expiredAt": "2026-08-26T23:28:00.000Z",
     "ExpLimit": "27 Agustus 2026"
+  },
+  {
+    "id": 1784877334299,
+    "username": "Zyyro",
+    "name": "Zyyro",
+    "email": "srokakak@gmail.com",
+    "password": "$2b$10$8qdqMS5QSQrrB6CFR4Likec4KaddfHqT.5SqfUaGEZCy3N0z3AUIq",
+    "apikey": "jdg5cekr",
+    "limit": 10,
+    "premium": false,
+    "createdAt": "2026-07-24T07:15:34.299Z",
+    "expiredAt": "2026-07-27T07:15:34.299Z",
+    "ExpLimit": "27 Juli 2026"
   }
 ]
