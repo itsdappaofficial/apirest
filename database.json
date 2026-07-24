@@ -1629,5 +1629,18 @@
     "createdAt": "2026-07-23T08:01:38.679Z",
     "expiredAt": "2026-08-22T08:04:05.235Z",
     "ExpLimit": "22 Agustus 2026"
+  },
+  {
+    "id": 1784874517235,
+    "username": "agung",
+    "name": "agung",
+    "email": "dkhshop7@gmail.com",
+    "password": "$2b$10$BDvWI9ouYzmwE8PT7R3lmesUrg6DbnSVKHCrPu2Xpy0VC4N75kYGy",
+    "apikey": "epahn9k1",
+    "limit": 10,
+    "premium": false,
+    "createdAt": "2026-07-24T06:28:37.235Z",
+    "expiredAt": "2026-07-27T06:28:37.226Z",
+    "ExpLimit": "27 Juli 2026"
   }
 ]
