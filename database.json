@@ -1637,10 +1637,10 @@
     "email": "dkhshop7@gmail.com",
     "password": "$2b$10$BDvWI9ouYzmwE8PT7R3lmesUrg6DbnSVKHCrPu2Xpy0VC4N75kYGy",
     "apikey": "epahn9k1",
-    "limit": 10,
-    "premium": false,
+    "limit": 1010,
+    "premium": true,
     "createdAt": "2026-07-24T06:28:37.235Z",
-    "expiredAt": "2026-07-27T06:28:37.226Z",
-    "ExpLimit": "27 Juli 2026"
+    "expiredAt": "2026-08-26T23:28:00.000Z",
+    "ExpLimit": "27 Agustus 2026"
   }
 ]
