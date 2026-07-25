@@ -1481,11 +1481,11 @@
     "googleId": "104094348272024789057",
     "password": null,
     "apikey": "5lzku61k",
-    "limit": 0,
-    "premium": false,
+    "limit": 1000,
+    "premium": true,
     "createdAt": "2026-07-15T22:43:12.815Z",
-    "expiredAt": "2026-07-18T22:43:12.737Z",
-    "ExpLimit": "18 Juli 2026"
+    "expiredAt": "2026-08-24T10:54:01.318Z",
+    "ExpLimit": "24 Agustus 2026"
   },
   {
     "id": 1784174493119,
