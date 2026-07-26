@@ -1685,5 +1685,20 @@
     "createdAt": "2026-07-25T16:02:16.921Z",
     "expiredAt": "2026-07-28T16:02:16.921Z",
     "ExpLimit": "29 Juli 2026"
+  },
+  {
+    "id": 1785058601039,
+    "username": "clarssafaqih@gmail.com",
+    "email": "clarssafaqih@gmail.com",
+    "name": "risaaa clarsza",
+    "picture": "https://lh3.googleusercontent.com/a/ACg8ocLLGhx_zZD0OE8eYjr-5Jy3D5_0zd0oESRIvejXVnxUg9pBuwiOuw=s96-c",
+    "googleId": "104317422239553078275",
+    "password": null,
+    "apikey": "203tfo8h",
+    "limit": 10,
+    "premium": false,
+    "createdAt": "2026-07-26T09:36:41.039Z",
+    "expiredAt": "2026-07-29T09:36:41.039Z",
+    "ExpLimit": "29 Juli 2026"
   }
 ]
