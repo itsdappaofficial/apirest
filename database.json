@@ -1700,5 +1700,18 @@
     "createdAt": "2026-07-26T09:36:41.039Z",
     "expiredAt": "2026-08-25T09:38:17.997Z",
     "ExpLimit": "25 Agustus 2026"
+  },
+  {
+    "id": 1785139623148,
+    "username": "Nagura",
+    "name": "Nagura",
+    "email": "NaguraMart@gmail.com",
+    "password": "$2b$10$jFBg3GS9yplj0PbpCZriiupLAClsPIBO2I9DDtLSSLE.Cix7pQpN2",
+    "apikey": "z1jz06qs",
+    "limit": 10,
+    "premium": false,
+    "createdAt": "2026-07-27T08:07:03.148Z",
+    "expiredAt": "2026-07-30T08:07:03.147Z",
+    "ExpLimit": "30 Juli 2026"
   }
 ]
