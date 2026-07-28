@@ -1713,5 +1713,18 @@
     "createdAt": "2026-07-27T08:07:03.148Z",
     "expiredAt": "2026-08-26T08:13:30.428Z",
     "ExpLimit": "26 Agustus 2026"
+  },
+  {
+    "id": 1785199707898,
+    "username": "ciaa",
+    "name": "ciaa",
+    "email": "srfeyzii088@gmail.com",
+    "password": "$2b$10$0QrXiqLM6Z77rnp13aTPzebet87604xVanjExNjZwVd/JZaIk7xd6",
+    "apikey": "b8wpewvr",
+    "limit": 10,
+    "premium": false,
+    "createdAt": "2026-07-28T00:48:27.898Z",
+    "expiredAt": "2026-07-31T00:48:27.897Z",
+    "ExpLimit": "31 Juli 2026"
   }
 ]
