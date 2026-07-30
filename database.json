@@ -751,7 +751,7 @@
   {
     "id": 1781419587258,
     "username": "lysa",
-    "name": "lysa",
+    "name": "celysa store",
     "email": "celysastore@gmail.com",
     "password": "$2b$10$kgWLunTAQdkl3GHY6iULOOPkkb0Uxubj8zWXt6HJXr8NKJ2BuJs8G",
     "apikey": "66rvoj23",
@@ -759,7 +759,8 @@
     "premium": false,
     "createdAt": "2026-06-14T06:46:27.258Z",
     "expiredAt": "2026-06-17T06:46:27.240Z",
-    "ExpLimit": "17 Juni 2026"
+    "ExpLimit": "17 Juni 2026",
+    "picture": "https://lh3.googleusercontent.com/a/ACg8ocIych7nEJzKxH08wavKyfvKhwUec4MJounvJpMpnXVHARC6KWQ=s96-c"
   },
   {
     "id": 1781508141112,
