@@ -1729,5 +1729,18 @@
     "expiredAt": "2026-07-31T00:48:27.897Z",
     "ExpLimit": "31 Juli 2026",
     "picture": "https://lh3.googleusercontent.com/a/ACg8ocLTljiphDmanMAmx7js6tGPGkB8LX0IsgNgXDiOEcZbt2ympJeL=s96-c"
+  },
+  {
+    "id": 1785496881204,
+    "username": "antari",
+    "name": "antari",
+    "email": "reolaadrasteiyra@gmail.com",
+    "password": "$2b$10$VE.rly1jpwGjDPrQ1s/CW.HPJa.QzAPyjD4G/slu/71D0hWNwNrri",
+    "apikey": "63y5f2xk",
+    "limit": 10,
+    "premium": false,
+    "createdAt": "2026-07-31T11:21:21.204Z",
+    "expiredAt": "2026-08-03T11:21:21.204Z",
+    "ExpLimit": "3 Agustus 2026"
   }
 ]
