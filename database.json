@@ -1752,10 +1752,10 @@
     "googleId": "101330601256105357225",
     "password": null,
     "apikey": "pd65cz54",
-    "limit": 10,
-    "premium": false,
+    "limit": 1010,
+    "premium": true,
     "createdAt": "2026-08-02T04:06:02.173Z",
-    "expiredAt": "2026-08-05T04:06:02.161Z",
-    "ExpLimit": "5 Agustus 2026"
+    "expiredAt": "2026-09-01T04:08:04.461Z",
+    "ExpLimit": "1 September 2026"
   }
 ]
