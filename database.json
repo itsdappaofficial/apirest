@@ -2038,7 +2038,7 @@
     "email": "dappaprobe24@web-library.net",
     "password": "$2b$10$VDCoN80obvZaJR8thpIaVuUBevrt7Rc7VAZDbgw8qO8Hwcbzb1hti",
     "apikey": "b3ugjl79",
-    "limit": 1,
+    "limit": 0,
     "premium": false,
     "createdAt": "2026-08-03T07:38:53.919Z",
     "expiredAt": "2026-08-06T07:38:53.918Z",
