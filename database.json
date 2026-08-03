@@ -2220,7 +2220,7 @@
     "email": "dappaprobe39@web-library.net",
     "password": "$2b$10$yPvDgShvPS46J9yTM1758.8fcdhQX4AXNGzW8vXVRAwOn0XogAIQG",
     "apikey": "z3snibin",
-    "limit": 1,
+    "limit": 0,
     "premium": false,
     "createdAt": "2026-08-03T10:09:32.086Z",
     "expiredAt": "2026-08-06T10:09:32.086Z",
