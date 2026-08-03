@@ -2264,5 +2264,20 @@
     "createdAt": "2026-08-03T10:09:38.128Z",
     "expiredAt": "2026-08-06T10:09:38.128Z",
     "ExpLimit": "6 Agustus 2026"
+  },
+  {
+    "id": 1785772237293,
+    "username": "hidupjokowi01sj@gmail.com",
+    "email": "hidupjokowi01sj@gmail.com",
+    "name": "hidup jokowi",
+    "picture": "https://lh3.googleusercontent.com/a/ACg8ocLKi4L1mHHdaMko_XHvqAnh69H5AhXQ3O-dryW1DWTKi_FbuQ=s96-c",
+    "googleId": "103039878460047064189",
+    "password": null,
+    "apikey": "w1wqfeci",
+    "limit": 10,
+    "premium": false,
+    "createdAt": "2026-08-03T15:50:37.293Z",
+    "expiredAt": "2026-08-06T15:50:37.292Z",
+    "ExpLimit": "6 Agustus 2026"
   }
 ]
