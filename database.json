@@ -2412,10 +2412,10 @@
     "googleId": "105076431545723420238",
     "password": null,
     "apikey": "zgcbnf6x",
-    "limit": 10,
-    "premium": false,
+    "limit": 1010,
+    "premium": true,
     "createdAt": "2026-08-10T16:42:59.863Z",
-    "expiredAt": "2026-08-13T16:42:59.862Z",
-    "ExpLimit": "14 Agustus 2026"
+    "expiredAt": "2026-09-10T09:41:00.000Z",
+    "ExpLimit": "10 September 2026"
   }
 ]
