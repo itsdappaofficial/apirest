@@ -2425,10 +2425,10 @@
     "email": "ml8982584@gmail.com",
     "password": "$2b$10$IAJdMYLEOqadoa6EXxKevej8MT63Hxgr6zlfL/4ZxY9eXjFzdL3sq",
     "apikey": "9w4qdlp7",
-    "limit": 5,
-    "premium": false,
+    "limit": 1005,
+    "premium": true,
     "createdAt": "2026-08-14T03:26:13.533Z",
-    "expiredAt": "2026-08-17T03:26:13.531Z",
-    "ExpLimit": "17 Agustus 2026"
+    "expiredAt": "2026-09-13T20:26:00.000Z",
+    "ExpLimit": "14 September 2026"
   }
 ]
