@@ -2417,5 +2417,18 @@
     "createdAt": "2026-08-10T16:42:59.863Z",
     "expiredAt": "2026-09-10T09:41:00.000Z",
     "ExpLimit": "10 September 2026"
+  },
+  {
+    "id": 1786677973533,
+    "username": "nanastore",
+    "name": "nanastore",
+    "email": "ml8982584@gmail.com",
+    "password": "$2b$10$IAJdMYLEOqadoa6EXxKevej8MT63Hxgr6zlfL/4ZxY9eXjFzdL3sq",
+    "apikey": "9w4qdlp7",
+    "limit": 10,
+    "premium": false,
+    "createdAt": "2026-08-14T03:26:13.533Z",
+    "expiredAt": "2026-08-17T03:26:13.531Z",
+    "ExpLimit": "17 Agustus 2026"
   }
 ]
