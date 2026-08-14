@@ -2440,10 +2440,10 @@
     "googleId": "116974168112182126960",
     "password": null,
     "apikey": "uhuujwi8",
-    "limit": 10,
-    "premium": false,
+    "limit": 1010,
+    "premium": true,
     "createdAt": "2026-08-14T12:47:25.504Z",
-    "expiredAt": "2026-08-17T12:47:25.492Z",
-    "ExpLimit": "17 Agustus 2026"
+    "expiredAt": "2026-09-13T12:50:04.809Z",
+    "ExpLimit": "13 September 2026"
   }
 ]
