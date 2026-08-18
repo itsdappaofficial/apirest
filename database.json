@@ -1635,7 +1635,7 @@
   {
     "id": 1784874517235,
     "username": "agung",
-    "name": "agung",
+    "name": "dkh shop",
     "email": "dkhshop7@gmail.com",
     "password": "$2b$10$BDvWI9ouYzmwE8PT7R3lmesUrg6DbnSVKHCrPu2Xpy0VC4N75kYGy",
     "apikey": "epahn9k1",
@@ -1643,7 +1643,8 @@
     "premium": true,
     "createdAt": "2026-07-24T06:28:37.235Z",
     "expiredAt": "2026-08-26T23:28:00.000Z",
-    "ExpLimit": "27 Agustus 2026"
+    "ExpLimit": "27 Agustus 2026",
+    "picture": "https://lh3.googleusercontent.com/a/ACg8ocIXF9et1uA3unKT6Dzvoa2zdJd27VOUkL7ZpBBDf1YcAGXuOg=s96-c"
   },
   {
     "id": 1784877334299,
