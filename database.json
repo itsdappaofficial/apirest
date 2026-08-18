@@ -2483,10 +2483,10 @@
     "email": "berebara2604@gmail.com",
     "password": "$2b$10$s3HHA6bqGja14JF/ttABRukRNew45epGBhEVFifLqo14kZjaIFl8.",
     "apikey": "6z4e1a6q",
-    "limit": 10,
-    "premium": false,
+    "limit": 1010,
+    "premium": true,
     "createdAt": "2026-08-18T13:24:02.226Z",
-    "expiredAt": "2026-08-21T13:24:02.225Z",
-    "ExpLimit": "21 Agustus 2026"
+    "expiredAt": "2026-09-17T13:25:03.843Z",
+    "ExpLimit": "17 September 2026"
   }
 ]
