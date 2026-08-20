@@ -2518,5 +2518,20 @@
     "createdAt": "2026-08-20T05:53:32.329Z",
     "expiredAt": "2026-08-23T05:53:32.329Z",
     "ExpLimit": "23 Agustus 2026"
+  },
+  {
+    "id": 1787241811936,
+    "username": "arfanofan012@gmail.com",
+    "email": "arfanofan012@gmail.com",
+    "name": "Fano Arfano",
+    "picture": "https://lh3.googleusercontent.com/a/ACg8ocKW8-S6ZmVj2ZcYqN8oZDrm1C14ASPUiVg6oGYFvs4APZKS3Q=s96-c",
+    "googleId": "102826898294652954158",
+    "password": null,
+    "apikey": "vqorbnxf",
+    "limit": 10,
+    "premium": false,
+    "createdAt": "2026-08-20T16:03:31.936Z",
+    "expiredAt": "2026-08-23T16:03:31.935Z",
+    "ExpLimit": "24 Agustus 2026"
   }
 ]
