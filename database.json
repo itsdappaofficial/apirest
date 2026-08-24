@@ -2533,5 +2533,18 @@
     "createdAt": "2026-08-20T16:03:31.936Z",
     "expiredAt": "2026-08-23T16:03:31.935Z",
     "ExpLimit": "24 Agustus 2026"
+  },
+  {
+    "id": 1787534576189,
+    "username": "bibie",
+    "name": "bibie",
+    "email": "akbaramprem4@gmail.com",
+    "password": "$2b$10$5QYdsgMjZhnp42rEgMzgP.oHhQCK5.MQ.mfHfiJC.pD7Ic2lukUn.",
+    "apikey": "98iqxx9i",
+    "limit": 10,
+    "premium": false,
+    "createdAt": "2026-08-24T01:22:56.190Z",
+    "expiredAt": "2026-08-27T01:22:56.118Z",
+    "ExpLimit": "27 Agustus 2026"
   }
 ]
