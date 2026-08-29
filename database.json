@@ -2561,5 +2561,18 @@
     "createdAt": "2026-08-24T18:48:12.706Z",
     "expiredAt": "2026-08-27T18:48:12.702Z",
     "ExpLimit": "28 Agustus 2026"
+  },
+  {
+    "id": 1787987750024,
+    "username": "retta",
+    "name": "retta",
+    "email": "bilagatau3@gmail.com",
+    "password": "$2b$10$V97D1cjXW0KQyQXCNZOmy.sblLsUb0a8F2zW69.BG3rzUboGoX9gi",
+    "apikey": "7jr3eh1g",
+    "limit": 10,
+    "premium": false,
+    "createdAt": "2026-08-29T07:15:50.024Z",
+    "expiredAt": "2026-09-01T07:15:50.009Z",
+    "ExpLimit": "1 September 2026"
   }
 ]
