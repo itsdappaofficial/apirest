@@ -2574,5 +2574,18 @@
     "createdAt": "2026-08-29T07:15:50.024Z",
     "expiredAt": "2026-09-01T07:15:50.009Z",
     "ExpLimit": "1 September 2026"
+  },
+  {
+    "id": 1788092325427,
+    "username": "tanz",
+    "name": "tanz",
+    "email": "apaaja@tanzbaik.my.id",
+    "password": "$2b$10$4pf5GCj1xoclp4L1wd39GOWE1fwkTarAHF9numAli719TTZOgnvHe",
+    "apikey": "xw5dz9tq",
+    "limit": 10,
+    "premium": false,
+    "createdAt": "2026-08-30T12:18:45.427Z",
+    "expiredAt": "2026-09-02T12:18:45.412Z",
+    "ExpLimit": "2 September 2026"
   }
 ]
