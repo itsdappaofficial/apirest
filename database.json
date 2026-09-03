@@ -2636,7 +2636,7 @@
     "email": "gstdbg7q1@example.invalid",
     "password": "$2b$10$eEkqUgo0vF7gEBEvZ3sDGeGAhwqJO.TswpDp7hYlmKCtm/zrUpTwa",
     "apikey": "r4571fez",
-    "limit": 7,
+    "limit": 6,
     "premium": false,
     "createdAt": "2026-09-03T05:15:43.677Z",
     "expiredAt": "2026-09-06T05:15:43.595Z",
