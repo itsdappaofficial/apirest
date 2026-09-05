@@ -2565,7 +2565,7 @@
   {
     "id": 1787987750024,
     "username": "retta",
-    "name": "retta",
+    "name": "Bila Gatau",
     "email": "bilagatau3@gmail.com",
     "password": "$2b$10$V97D1cjXW0KQyQXCNZOmy.sblLsUb0a8F2zW69.BG3rzUboGoX9gi",
     "apikey": "7jr3eh1g",
@@ -2573,7 +2573,8 @@
     "premium": false,
     "createdAt": "2026-08-29T07:15:50.024Z",
     "expiredAt": "2026-09-01T07:15:50.009Z",
-    "ExpLimit": "1 September 2026"
+    "ExpLimit": "1 September 2026",
+    "picture": "https://lh3.googleusercontent.com/a/ACg8ocKwID8hlK_w-OOe2DWso9pr2oew7xRLbdN5IIuPA3mJfRutcg=s96-c"
   },
   {
     "id": 1788092325427,
