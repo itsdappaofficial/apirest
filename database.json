@@ -2684,5 +2684,18 @@
     "createdAt": "2026-09-06T13:01:54.240Z",
     "expiredAt": "2026-09-09T13:01:54.220Z",
     "ExpLimit": "9 September 2026"
+  },
+  {
+    "id": 1788700587016,
+    "username": "ammah",
+    "name": "ammah",
+    "email": "ammah3407@gmail.com",
+    "password": "$2b$10$QYM4l06gVP0KbNoBls8Y4.gWMQbYwSt.ZgGlwN744LZf0vqs7aNyi",
+    "apikey": "s1sa2qeo",
+    "limit": 10,
+    "premium": false,
+    "createdAt": "2026-09-06T13:16:27.016Z",
+    "expiredAt": "2026-09-09T13:16:27.016Z",
+    "ExpLimit": "9 September 2026"
   }
 ]
