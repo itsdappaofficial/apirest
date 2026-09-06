@@ -2671,5 +2671,18 @@
     "createdAt": "2026-09-06T05:39:26.193Z",
     "expiredAt": "2026-10-08T22:39:00.000Z",
     "ExpLimit": "9 Oktober 2026"
+  },
+  {
+    "id": 1788699714240,
+    "username": "ndyoffc",
+    "name": "ndyoffc",
+    "email": "azking1616@gmail.com",
+    "password": "$2b$10$f438uNB9EqR/NHsi2LxR0e6ZWrMyfa5QLa.1T8a9S782dtVhNzS8W",
+    "apikey": "3o2ls8pu",
+    "limit": 10,
+    "premium": false,
+    "createdAt": "2026-09-06T13:01:54.240Z",
+    "expiredAt": "2026-09-09T13:01:54.220Z",
+    "ExpLimit": "9 September 2026"
   }
 ]
