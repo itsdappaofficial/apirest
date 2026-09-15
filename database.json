@@ -2710,5 +2710,18 @@
     "createdAt": "2026-09-14T10:39:04.384Z",
     "expiredAt": "2026-09-17T10:39:04.309Z",
     "ExpLimit": "17 September 2026"
+  },
+  {
+    "id": 1789469165065,
+    "username": "sal",
+    "name": "sal",
+    "email": "testisalyastoreid@gmail.com",
+    "password": "$2b$10$S7iJlNlLBf2.3DiGvHUIjuigmIEpaaDf7CsEdE0zzv3a3tRkktSBS",
+    "apikey": "gj4lp8f4",
+    "limit": 10,
+    "premium": false,
+    "createdAt": "2026-09-15T10:46:05.065Z",
+    "expiredAt": "2026-09-18T10:46:05.064Z",
+    "ExpLimit": "18 September 2026"
   }
 ]
