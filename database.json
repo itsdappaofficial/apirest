@@ -2718,10 +2718,10 @@
     "email": "testisalyastoreid@gmail.com",
     "password": "$2b$10$S7iJlNlLBf2.3DiGvHUIjuigmIEpaaDf7CsEdE0zzv3a3tRkktSBS",
     "apikey": "gj4lp8f4",
-    "limit": 10,
-    "premium": false,
+    "limit": 1010,
+    "premium": true,
     "createdAt": "2026-09-15T10:46:05.065Z",
-    "expiredAt": "2026-09-18T10:46:05.064Z",
-    "ExpLimit": "18 September 2026"
+    "expiredAt": "2026-10-21T03:46:00.000Z",
+    "ExpLimit": "21 Oktober 2026"
   }
 ]
