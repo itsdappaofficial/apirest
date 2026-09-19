@@ -2748,10 +2748,10 @@
     "googleId": "114868252193607669259",
     "password": null,
     "apikey": "w57tv3ou",
-    "limit": 10,
-    "premium": false,
+    "limit": 1010,
+    "premium": true,
     "createdAt": "2026-09-19T08:58:32.251Z",
-    "expiredAt": "2026-09-22T08:58:32.178Z",
-    "ExpLimit": "22 September 2026"
+    "expiredAt": "2026-10-31T01:58:00.000Z",
+    "ExpLimit": "31 Oktober 2026"
   }
 ]
