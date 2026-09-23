@@ -2794,5 +2794,18 @@
     "createdAt": "2026-09-23T12:35:30.328Z",
     "expiredAt": "2026-09-26T12:35:30.244Z",
     "ExpLimit": "26 September 2026"
+  },
+  {
+    "id": 1790174178647,
+    "username": "vila",
+    "name": "vila",
+    "email": "naviladwirizqiana9@gmail.com",
+    "password": "$2b$10$/stcDlbcNbCLTFLmy3iju.xTG0zR92s5LT.DQv1eXq5igx.7bfXmW",
+    "apikey": "jx8t98pk",
+    "limit": 10,
+    "premium": false,
+    "createdAt": "2026-09-23T14:36:18.647Z",
+    "expiredAt": "2026-09-26T14:36:18.647Z",
+    "ExpLimit": "26 September 2026"
   }
 ]
