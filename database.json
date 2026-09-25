@@ -2833,5 +2833,18 @@
     "createdAt": "2026-09-25T08:20:49.894Z",
     "expiredAt": "2026-11-28T01:20:00.000Z",
     "ExpLimit": "28 November 2026"
+  },
+  {
+    "id": 1790334536560,
+    "username": "Ciaa",
+    "name": "Ciaa",
+    "email": "anginanyar7@gmail.com",
+    "password": "$2b$10$pd0hkhn/v8xDMShEkvGhQ.ofFxwYPhrNH1m8DIJTDBVynKl48KQcm",
+    "apikey": "p4cvh1g2",
+    "limit": 10,
+    "premium": false,
+    "createdAt": "2026-09-25T11:08:56.561Z",
+    "expiredAt": "2026-09-28T11:08:56.560Z",
+    "ExpLimit": "28 September 2026"
   }
 ]
