@@ -2789,11 +2789,11 @@
     "email": "aisyahayunda2622@gmail.com",
     "password": "$2b$10$ENfXBq3LLpXHQRzVmHXfqef1T8POL4hVmUTwHO61oEBmCM7rhcSSy",
     "apikey": "7wqzw7xz",
-    "limit": 10,
-    "premium": false,
+    "limit": 5010,
+    "premium": true,
     "createdAt": "2026-09-23T12:35:30.328Z",
-    "expiredAt": "2026-09-26T12:35:30.244Z",
-    "ExpLimit": "26 September 2026",
+    "expiredAt": "2026-11-27T05:35:00.000Z",
+    "ExpLimit": "27 November 2026",
     "picture": "https://lh3.googleusercontent.com/a/ACg8ocLO8mc2xOyCOloRjZ3odCCnsw6aI4qBM0tjr9V3KKU8sI1PPA=s96-c"
   },
   {
