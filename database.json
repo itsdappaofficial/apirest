@@ -2847,5 +2847,18 @@
     "createdAt": "2026-09-25T11:08:56.561Z",
     "expiredAt": "2026-09-28T11:08:56.560Z",
     "ExpLimit": "28 September 2026"
+  },
+  {
+    "id": 1790593510020,
+    "username": "nirayaya",
+    "name": "nirayaya",
+    "email": "nuyalana113@gmail.com",
+    "password": "$2b$10$nA7sUkYQo47GVHOEiHYMd.Y4krvT02yhq4k/pXFwSxkngNKODY3WW",
+    "apikey": "xi5uxdwx",
+    "limit": 10,
+    "premium": false,
+    "createdAt": "2026-09-28T11:05:10.020Z",
+    "expiredAt": "2026-10-01T11:05:09.936Z",
+    "ExpLimit": "1 Oktober 2026"
   }
 ]
