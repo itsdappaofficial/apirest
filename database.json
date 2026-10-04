@@ -2891,5 +2891,20 @@
     "createdAt": "2026-10-03T13:38:48.480Z",
     "expiredAt": "2026-10-06T13:38:48.479Z",
     "ExpLimit": "6 Oktober 2026"
+  },
+  {
+    "id": 1791152506073,
+    "username": "lumayanjugaya@gmail.com",
+    "email": "lumayanjugaya@gmail.com",
+    "name": "lumayan juga ya",
+    "picture": "https://lh3.googleusercontent.com/a/ACg8ocK5LjqkA65ucEsCTWtFClFZpfFdhLbdyqZy8HbZ7t_g6AF67A=s96-c",
+    "googleId": "106839657741604208354",
+    "password": null,
+    "apikey": "dfduyush",
+    "limit": 10,
+    "premium": false,
+    "createdAt": "2026-10-04T22:21:46.073Z",
+    "expiredAt": "2026-10-07T22:21:46.046Z",
+    "ExpLimit": "8 Oktober 2026"
   }
 ]
