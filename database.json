@@ -1587,11 +1587,14 @@
     "email": "airaairaa60@gmail.com",
     "password": "$2b$10$/ZX2RR3Y43q/3iw62WORYejZIk8LujT8swuSHTtR1jEYt71e6c5iO",
     "apikey": "mca7sbh2",
-    "limit": 971,
+    "limit": 1971,
     "premium": true,
     "createdAt": "2026-07-21T13:58:26.709Z",
-    "expiredAt": "2026-08-24T13:30:53.374Z",
-    "ExpLimit": "24 Agustus 2026"
+    "expiredAt": "2026-11-04T16:29:03.856Z",
+    "ExpLimit": "5 November 2026",
+    "processedPayQrisInvoices": [
+      "INV94a69e3"
+    ]
   },
   {
     "id": 1784655350948,
