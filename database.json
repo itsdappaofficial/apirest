@@ -3007,10 +3007,10 @@
     "googleId": "110730491411153973106",
     "password": null,
     "apikey": "5ag9hxbd",
-    "limit": 10,
-    "premium": false,
+    "limit": 1010,
+    "premium": true,
     "createdAt": "2026-10-09T05:36:43.770Z",
-    "expiredAt": "2026-10-12T05:36:43.770Z",
-    "ExpLimit": "12 Oktober 2026"
+    "expiredAt": "2026-11-08T22:36:00.000Z",
+    "ExpLimit": "9 November 2026"
   }
 ]
