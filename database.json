@@ -2984,5 +2984,18 @@
     "createdAt": "2026-10-09T05:21:45.461Z",
     "expiredAt": "2026-10-12T05:21:45.461Z",
     "ExpLimit": "12 Oktober 2026"
+  },
+  {
+    "id": 1791523573088,
+    "username": "yiinss",
+    "name": "yiinss",
+    "email": "yiinns123@gmail.com",
+    "password": "$2b$10$hCs1mhYsw.NS62OIZ9OHPe.COu0.qiGZFnkpw7dNJ9Ozxp40syk.O",
+    "apikey": "ocsnfiq4",
+    "limit": 10,
+    "premium": false,
+    "createdAt": "2026-10-09T05:26:13.088Z",
+    "expiredAt": "2026-10-12T05:26:13.088Z",
+    "ExpLimit": "12 Oktober 2026"
   }
 ]
