@@ -3012,5 +3012,18 @@
     "createdAt": "2026-10-09T05:36:43.770Z",
     "expiredAt": "2026-11-08T22:36:00.000Z",
     "ExpLimit": "9 November 2026"
+  },
+  {
+    "id": 1791536787108,
+    "username": "aneii",
+    "name": "aneii",
+    "email": "aneiishaa4@gmail.com",
+    "password": "$2b$10$zX96MT7H1WXZhB58OADxFey3sQE04eRvc7KDsYuyWtgpNmAJyB20e",
+    "apikey": "0w1llo8f",
+    "limit": 10,
+    "premium": false,
+    "createdAt": "2026-10-09T09:06:27.108Z",
+    "expiredAt": "2026-10-12T09:06:27.108Z",
+    "ExpLimit": "12 Oktober 2026"
   }
 ]
