@@ -2954,5 +2954,20 @@
     "createdAt": "2026-10-08T06:19:19.471Z",
     "expiredAt": "2026-10-11T06:19:19.444Z",
     "ExpLimit": "11 Oktober 2026"
+  },
+  {
+    "id": 1791518930500,
+    "username": "najwarahmahputri@gmail.com",
+    "email": "najwarahmahputri@gmail.com",
+    "name": "Najwa Rahmah Putri",
+    "picture": "https://lh3.googleusercontent.com/a/ACg8ocKk__t8l0bH10V1ywdbHeoBjKAVf9FXlkMQ41L6kxySpXPa3w=s96-c",
+    "googleId": "103043625425419753543",
+    "password": null,
+    "apikey": "owj5ti8u",
+    "limit": 10,
+    "premium": false,
+    "createdAt": "2026-10-09T04:08:50.500Z",
+    "expiredAt": "2026-10-12T04:08:50.499Z",
+    "ExpLimit": "12 Oktober 2026"
   }
 ]
