@@ -3081,5 +3081,18 @@
     "createdAt": "2026-10-14T01:20:22.776Z",
     "expiredAt": "2026-10-17T01:20:22.775Z",
     "ExpLimit": "17 Oktober 2026"
+  },
+  {
+    "id": 1791974595143,
+    "username": "jeje",
+    "name": "jeje",
+    "email": "zahraputrirhamadani8@gmail.com",
+    "password": "$2b$10$toolJhhUFJ9aUH/iGnVAu.X/r5iJxuNBUV4i.Dn95yuQC9qE3.FWe",
+    "apikey": "bhh6ce4p",
+    "limit": 10,
+    "premium": false,
+    "createdAt": "2026-10-14T10:43:15.143Z",
+    "expiredAt": "2026-10-17T10:43:15.128Z",
+    "ExpLimit": "17 Oktober 2026"
   }
 ]
