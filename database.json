@@ -3104,11 +3104,11 @@
     "googleId": "108114084905105635273",
     "password": null,
     "apikey": "q7cu4z3a",
-    "limit": 10,
-    "premium": false,
+    "limit": 1010,
+    "premium": true,
     "createdAt": "2026-10-14T10:44:40.776Z",
-    "expiredAt": "2026-10-17T10:44:40.776Z",
-    "ExpLimit": "17 Oktober 2026"
+    "expiredAt": "2026-11-14T03:44:00.000Z",
+    "ExpLimit": "14 November 2026"
   },
   {
     "id": 1791974739236,
