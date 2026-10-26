@@ -3270,10 +3270,10 @@
     "googleId": "116994840127834796467",
     "password": null,
     "apikey": "e1fbmzp3",
-    "limit": 10,
-    "premium": false,
+    "limit": 1500,
+    "premium": true,
     "createdAt": "2026-10-26T15:47:34.116Z",
-    "expiredAt": "2026-10-29T15:47:34.101Z",
+    "expiredAt": "2026-10-29T08:47:00.000Z",
     "ExpLimit": "29 Oktober 2026"
   }
 ]
