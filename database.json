@@ -3290,5 +3290,18 @@
     "createdAt": "2026-10-27T11:54:12.101Z",
     "expiredAt": "2026-10-30T11:54:12.073Z",
     "ExpLimit": "30 Oktober 2026"
+  },
+  {
+    "id": 1793104680229,
+    "username": "ciwa",
+    "name": "ciwa",
+    "email": "awaacoii@gmail.com",
+    "password": "$2b$10$X3091u8sLfRBogsJYbh1yegBrjRPpmm2F2or4yqOJhTHNPObALN26",
+    "apikey": "olqocmfg",
+    "limit": 10,
+    "premium": false,
+    "createdAt": "2026-10-27T12:38:00.229Z",
+    "expiredAt": "2026-10-30T12:38:00.228Z",
+    "ExpLimit": "30 Oktober 2026"
   }
 ]
