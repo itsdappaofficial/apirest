@@ -6,11 +6,11 @@
     "email": "sanzstore8981@gmail.com",
     "password": "$2b$10$D35oJWzJ151GantCDKeBkOgbYSxed89gizjj8lwXpj41rM3sJNdQq",
     "apikey": "hfgdwaeh",
-    "limit": 0,
+    "limit": 10,
     "premium": false,
     "createdAt": "2026-05-28T03:11:24.594Z",
-    "expiredAt": "2026-05-31T03:11:24.580Z",
-    "ExpLimit": "31 Mei 2026"
+    "expiredAt": "2028-05-30T20:11:00.000Z",
+    "ExpLimit": "31 Mei 2028"
   },
   {
     "id": 1779944193805,
