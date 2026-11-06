@@ -3139,11 +3139,11 @@
     "googleId": "118275674224405385349",
     "password": null,
     "apikey": "1lb4lx5s",
-    "limit": 10,
-    "premium": false,
+    "limit": 1210,
+    "premium": true,
     "createdAt": "2026-10-16T01:06:09.804Z",
-    "expiredAt": "2026-10-19T01:06:09.763Z",
-    "ExpLimit": "19 Oktober 2026"
+    "expiredAt": "2026-12-05T18:06:00.000Z",
+    "ExpLimit": "6 Desember 2026"
   },
   {
     "id": 1792138570367,
