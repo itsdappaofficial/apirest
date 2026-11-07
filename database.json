@@ -3407,10 +3407,10 @@
     "email": "naguramart@gmail.com",
     "password": "$2b$10$jlcLKGgnVoMmSI48iOQ17uT03bhupomIIAbrBnWoVYLVXEZwQ.W8e",
     "apikey": "koahb585",
-    "limit": 10,
-    "premium": false,
+    "limit": 1200,
+    "premium": true,
     "createdAt": "2026-11-07T06:27:57.198Z",
-    "expiredAt": "2026-11-10T06:27:57.196Z",
-    "ExpLimit": "10 November 2026"
+    "expiredAt": "2026-12-06T23:27:00.000Z",
+    "ExpLimit": "7 Desember 2026"
   }
 ]
