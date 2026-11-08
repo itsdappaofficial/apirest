@@ -3412,5 +3412,18 @@
     "createdAt": "2026-11-07T06:27:57.198Z",
     "expiredAt": "2026-12-06T23:27:00.000Z",
     "ExpLimit": "7 Desember 2026"
+  },
+  {
+    "id": 1794140524252,
+    "username": "Shabira",
+    "name": "Shabira",
+    "email": "kimukts@gmail.com",
+    "password": "$2b$10$lAiahsHdoZlJ7zlEWLHv5OV8.G0de47U6mdJ8uyeA4eEnsNaj9djy",
+    "apikey": "0i91atjo",
+    "limit": 10,
+    "premium": false,
+    "createdAt": "2026-11-08T12:22:04.252Z",
+    "expiredAt": "2026-11-11T12:22:04.224Z",
+    "ExpLimit": "11 November 2026"
   }
 ]
