@@ -3519,5 +3519,18 @@
     "createdAt": "2026-11-17T05:09:34.577Z",
     "expiredAt": "2026-12-16T22:09:00.000Z",
     "ExpLimit": "17 Desember 2026"
+  },
+  {
+    "id": 1794920044183,
+    "username": "hafizah",
+    "name": "hafizah",
+    "email": "hafizahmaijalsi@gmail.com",
+    "password": "$2b$10$k3RJDXDlGeiy2ArUvm/S/Os7hehZXdN8d1E7a7LxhnCq9mWbNpNeq",
+    "apikey": "023hcy3s",
+    "limit": 10,
+    "premium": false,
+    "createdAt": "2026-11-17T12:54:04.183Z",
+    "expiredAt": "2026-11-20T12:54:04.169Z",
+    "ExpLimit": "20 November 2026"
   }
 ]
