@@ -3541,10 +3541,10 @@
     "email": "jeeyacyimut@gmail.com",
     "password": "$2b$10$GmeFZzmVk5zKx/tSGRv2c.4awO4CY/ly5mxEIzJwW5xd0pVShqV0W",
     "apikey": "j3e25sgn",
-    "limit": 5200,
-    "premium": true,
+    "limit": 10,
+    "premium": false,
     "createdAt": "2026-11-17T14:56:52.446Z",
-    "expiredAt": "2026-12-20T07:56:00.000Z",
-    "ExpLimit": "20 Desember 2026"
+    "expiredAt": "2026-11-20T00:56:00.000Z",
+    "ExpLimit": "20 November 2026"
   }
 ]
