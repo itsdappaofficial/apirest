@@ -3506,5 +3506,18 @@
     "createdAt": "2026-11-16T03:58:35.376Z",
     "expiredAt": "2026-11-19T03:58:35.374Z",
     "ExpLimit": "19 November 2026"
+  },
+  {
+    "id": 1794892174577,
+    "username": "piraacy",
+    "name": "piraacy",
+    "email": "sapiramedan54@gmail.com",
+    "password": "$2b$10$uzC0ykvSV3lQ9aABEl2rXOIuk5ToJNnU.8mgTvFR1bLRZbsfeGGSq",
+    "apikey": "p4eg90od",
+    "limit": 10,
+    "premium": false,
+    "createdAt": "2026-11-17T05:09:34.577Z",
+    "expiredAt": "2026-11-20T05:09:34.576Z",
+    "ExpLimit": "20 November 2026"
   }
 ]
