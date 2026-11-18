@@ -3562,5 +3562,18 @@
     "createdAt": "2026-11-18T00:30:48.594Z",
     "expiredAt": "2026-11-21T00:30:48.593Z",
     "ExpLimit": "21 November 2026"
+  },
+  {
+    "id": 1795012378437,
+    "username": "savna",
+    "name": "savna",
+    "email": "yynaddy@gmail.com",
+    "password": "$2b$10$ZrZ7uyZNBTNxaeNOk1lBru0rXIw4RxT91djmZJLyVwkUvNf3Vn1Ge",
+    "apikey": "xowguloy",
+    "limit": 10,
+    "premium": false,
+    "createdAt": "2026-11-18T14:32:58.437Z",
+    "expiredAt": "2026-11-21T14:32:58.436Z",
+    "ExpLimit": "21 November 2026"
   }
 ]
