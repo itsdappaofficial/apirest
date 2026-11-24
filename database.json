@@ -3605,5 +3605,18 @@
     "createdAt": "2026-11-23T20:47:28.072Z",
     "expiredAt": "2026-11-26T20:47:28.032Z",
     "ExpLimit": "26 November 2026"
+  },
+  {
+    "id": 1795488495013,
+    "username": "andrii",
+    "name": "andrii",
+    "email": "andriiedit@gmail.com",
+    "password": "$2b$10$I3xCnZ6fHnHSUqe2014AqOnPWDGOGxU/tjqqnGEdGtN9pvpBqM3Rq",
+    "apikey": "hon68slz",
+    "limit": 10,
+    "premium": false,
+    "createdAt": "2026-11-24T02:48:15.013Z",
+    "expiredAt": "2026-11-27T02:48:15.011Z",
+    "ExpLimit": "27 November 2026"
   }
 ]
